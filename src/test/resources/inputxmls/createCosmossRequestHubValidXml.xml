@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<WM_Request xsi:noNamespaceSchemaLocation="COS_taskInitiate.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<EAI_Header>
+		<HI_SVC_NAME>HI_H_TFrequest</HI_SVC_NAME>
+		<HI_SVC_VERSION>0001</HI_SVC_VERSION>
+		<HI_PCK>PCK002069TFSR            COSMOSSGN   TESTCSM04:063959COSMOSSGN       </HI_PCK>
+		<HI_WORKSTRING/>
+		<HI_WORKSTRING_ORIGINATOR>COSMOSSGN</HI_WORKSTRING_ORIGINATOR>
+		<HI_WORKSTRING_TYPE>Job Management</HI_WORKSTRING_TYPE>
+		<HI_WORKSTRING_TYPE_INSTANCE>TESTCSM04</HI_WORKSTRING_TYPE_INSTANCE>
+		<HI_WORKSTRING_SUB_TYPE>taskInitiate</HI_WORKSTRING_SUB_TYPE>
+		<HI_WORKSTRING_KEY/>
+		<HI_WORKSTRING_SEQ>FATA120001005857190G057C</HI_WORKSTRING_SEQ>
+		<HI_ROUTING_DATA>WMC91</HI_ROUTING_DATA>
+		<HI_CLIENT_CALLERID>TESTCSM04:063959</HI_CLIENT_CALLERID>
+	</EAI_Header>
+	<EAI_Body>
+		<TaskInitiateDs>
+			<SourceSystem>COSMOSSGN</SourceSystem>
+			<TaskIdentifier>TESTCSM04</TaskIdentifier>
+			<TaskTypeDs>
+				<TaskCategory>C</TaskCategory>
+				<TaskTypeId>NXKGFAT01</TaskTypeId>
+				<SkillDurationDs>
+					<NumberOfPeople>01</NumberOfPeople>
+				</SkillDurationDs>
+			</TaskTypeDs>
+			<BusinessAssetIdCode>L/EDM</BusinessAssetIdCode>
+			<MainWorkLocation>CA</MainWorkLocation>
+			<ResponseCode>BT02</ResponseCode>
+			<PostCode>E11 2HN</PostCode>
+			<WorkAddressDs>
+				<WorkLocationQualifier>A</WorkLocationQualifier>
+				<AddressLine>TELECOMMUNICATION</AddressLine>
+				<AddressLine>RM:12 FL:42 LCT:5 ABC 14 GAR</AddressLine>
+				<AddressLine>DNER CLOSE LONDON LONDON</AddressLine>
+				<ContactName>MR KEN PETERSON</ContactName>
+				<ContactPhoneNo>(01236) 589745</ContactPhoneNo>
+				<BusinessAreaPartitionCode>DPW</BusinessAreaPartitionCode>
+			</WorkAddressDs>
+			<WorkAddressDs>
+				<WorkLocationQualifier>B</WorkLocationQualifier>
+				<AddressLine>TELECOMMUNICATION</AddressLine>
+				<AddressLine>RM:123  FL:545  APEX TOWER 3</AddressLine>
+				<AddressLine>07 FINCHLEY ROAD LONDON LOND</AddressLine>
+				<AddressLine>ON</AddressLine>
+				<ContactName>MISS ANGELA MILLS</ContactName>
+				<ContactPhoneNo>(0121) 232 7743</ContactPhoneNo>
+				<BusinessAreaPartitionCode>DPW</BusinessAreaPartitionCode>
+			</WorkAddressDs>
+			<SecondaryCommitmentLatestFinish>20190528133600</SecondaryCommitmentLatestFinish>
+			<AutomaticAllocation>TRUE</AutomaticAllocation>
+			<AccessDayDs>
+				<AccessIndicator>Y</AccessIndicator>
+			</AccessDayDs>
+			<CircuitAndProductDetailsDs>
+				<ProposedInd>P</ProposedInd>
+				<OverallCircuitSpecDs>
+					<NetworkServiceId>ONEC400000</NetworkServiceId>
+				</OverallCircuitSpecDs>
+				<CircuitEndDetailsDs>
+					<CircuitEnd>A</CircuitEnd>
+					<LocalServingExchange1141>DPW</LocalServingExchange1141>
+					<AssociatedOrderLinesDs>
+						<OrderLineOrderFunction>PD</OrderLineOrderFunction>
+						<OrderProductQuantity>001</OrderProductQuantity>
+						<ProductDescription>FRSTRM BRR 384-1024K</ProductDescription>
+						<ProductServiceId>ONEC400000</ProductServiceId>
+						<MaintenanceClass>RTW</MaintenanceClass>
+					</AssociatedOrderLinesDs>
+				</CircuitEndDetailsDs>
+				<CircuitEndDetailsDs>
+					<CircuitEnd>B</CircuitEnd>
+					<LocalServingExchange1141>DPW</LocalServingExchange1141>
+					<AssociatedOrderLinesDs>
+						<OrderLineOrderFunction>PD</OrderLineOrderFunction>
+						<OrderProductQuantity>001</OrderProductQuantity>
+						<ProductDescription>FRSTRM BRR 384-1024K</ProductDescription>
+						<ProductServiceId>ONEC400000</ProductServiceId>
+						<MaintenanceClass>RTW</MaintenanceClass>
+					</AssociatedOrderLinesDs>
+				</CircuitEndDetailsDs>
+			</CircuitAndProductDetailsDs>
+			<ContractualDeliveryDate>20190625</ContractualDeliveryDate>
+			<CustomerName>TELECOMMUNICATION</CustomerName>
+			<CustomerRequestedDate>20190615</CustomerRequestedDate>
+			<ExternalTaskRef>THB85001FATA12</ExternalTaskRef>
+			<JobControllerFaxNo>(0121) 633 0970</JobControllerFaxNo>
+			<JobControllerName>PERKS</JobControllerName>
+			<JobControllerOrgUnitId>WNFMM157W9</JobControllerOrgUnitId>
+			<JobControllerPhoneNo>(0121) 230 4252</JobControllerPhoneNo>
+			<OrderVolume>1</OrderVolume>
+			<ProductServiceVersion>0001</ProductServiceVersion>
+			<SiteIdentifier>GB/E112HN/BBT</SiteIdentifier>
+			<TargetCompletionDate>20190625</TargetCompletionDate>
+			<TaskActivityType>FATA12</TaskActivityType>
+			<TaskDescription>PDFRSTRM BRR 384-1024K</TaskDescription>
+			<CustomerChargeableWorkindicator>N</CustomerChargeableWorkindicator>
+			<WorkId>ONEC400000</WorkId>
+			<PrimaryCommitmentDs>
+				<PrimaryCommitmentLatestStart>20190524113600</PrimaryCommitmentLatestStart>
+			</PrimaryCommitmentDs>
+			<FieldSupportInformation>
+				<FSINotes>
+					<TaskNotesDs>
+						<NoteType>INS</NoteType>
+						<NoteText>FSI NOTES MODIFICATION FOR ENG.COM FOR 49 REGRESSION TESTING - EMP R4050. COSC037 15/05/19 11:41</NoteText>
+						<NoteDateTime>20190517063659</NoteDateTime>
+						<NoteAppendInd>TRUE</NoteAppendInd>
+					</TaskNotesDs>
+				</FSINotes>
+			</FieldSupportInformation>
+			<WMR_CreateTaskServiceSpecific>
+				<QueueId>WMSTC095B1</QueueId>
+			</WMR_CreateTaskServiceSpecific>
+		</TaskInitiateDs>
+	</EAI_Body>
+</WM_Request>

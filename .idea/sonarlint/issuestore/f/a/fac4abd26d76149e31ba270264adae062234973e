@@ -1,0 +1,35 @@
+
+3squid:S3626Œ"Remove this redundant jump.(ûÁİ…
+¿squid:S1192ò"¦Define a constant instead of duplicating this literal "StuckRequestPollerBeanProcessor :: routeStuckRequest: Unknown Exception : Error Code: {} :: STACK: {}" 3 times.(ğ‰ŞÅ
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+csquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(ÉÙÛğ
+3squid:S3626‰"Remove this redundant jump.(ûÁİ…
+osquid:S2737½"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(ßÈù¦øÿÿÿÿ
+3squid:S3626†"Remove this redundant jump.(ûÁİ…
+Qsquid:S1141h"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+hsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(ßÈù¦øÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÁ± ùÿÿÿÿ
+}squid:S00116%"eRename this field "StuckPollerAttributeReader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¡¿¿
+osquid:S2737ã"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+jsquid:ModifiersOrderCheck<"EReorder the modifiers to comply with the Java Language Specification.(İ¸ÔÆ
+Qsquid:S1481o":Remove this unused "aggregationRequestXML" local variable.(óÃÄã
+osquid:S2737ˆ"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+Rsquid:S1141’"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141^"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Ksquid:S1481Ï"4Remove this unused "transformnedXML" local variable.(›šÁW
+hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ßÈù¦øÿÿÿÿ
+bsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(çïûr
+Rsquid:S1141Ê"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(½üµ’
+nsquid:S3776V"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(†°ğËøÿÿÿÿ
+Qsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+`squid:S1192"HDefine a constant instead of duplicating this literal "SUCCESS" 6 times.(Íçò¬
+Qsquid:S1141s"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+3squid:S3626”"Remove this redundant jump.(ûÁİ…
+nsquid:S1149Ğ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".( ƒüï
+Qsquid:S1135Å"2Complete the task associated to this TODO comment.(øÉ†ö8¨õ…¯Ğ-
+»%squid:RedundantThrowsDeclarationCheck˜"‚Remove the declaration of thrown exception 'com.bt.metb.aggregator.util.METBException', as it cannot be thrown from method's body.(–ÓI8¨õ…¯Ğ-
+Ysquid:S1481—";Remove this unused "strEligibleAggregation" local variable.(»ÕŞt8¨õ…¯Ğ-
+Psquid:S1481˜",Remove this unused "strFlag" local variable.(å¯÷¨ùÿÿÿÿ8¨õ…¯Ğ-
+osquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(÷¿Èİşÿÿÿÿ8¨õ…¯Ğ-

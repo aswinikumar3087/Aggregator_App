@@ -1,0 +1,24 @@
+
+ysquid:S1488‰"bImmediately return this expression instead of assigning it to the temporary variable "datasource".(ÍÒÃt
+˜squid:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış
+{squid:S00116"^Rename this field "ServiceContextCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«¤úÿÿÿÿ
+<squid:S30103"%Remove this assignment of "instance".(²§Úš
+rsquid:S4435ï"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(¹ªÑ
+psquid:S2139ñ"XEither log this exception and handle it, or rethrow it with some contextual information.(Ñ‚ŞŸ
+usquid:S2139ù"XEither log this exception and handle it, or rethrow it with some contextual information.(ÀãÑéÿÿÿÿÿ
+3squid:S3626©"Remove this redundant jump.(ûÁİ…
+3squid:S3626²"Remove this redundant jump.(ûÁİ…
+3squid:S3626µ"Remove this redundant jump.(ûÁİ…
+Jsquid:S1135³"2Complete the task associated to this TODO comment.(Û‘”‰
+ssquid:S3923¹"[Remove this conditional structure or edit its code blocks so that they're not all the same.(„¦©ó
+Jsquid:S1135½"2Complete the task associated to this TODO comment.(Û‘”‰
+ssquid:S3923Ä"[Remove this conditional structure or edit its code blocks so that they're not all the same.(„¦©ó
+Jsquid:S1135Ê"2Complete the task associated to this TODO comment.(Û‘”‰
+]squid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(Æñêúÿÿÿÿ
+Ssquid:S1068"7Remove this unused "ServiceContextCache" private field.(¶«¤úÿÿÿÿ
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+bsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(£÷š¯
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(§Õôø
+hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(´¤’úÿÿÿÿ
+hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ

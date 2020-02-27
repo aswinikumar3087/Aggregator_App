@@ -1,0 +1,6 @@
+
+Vsquid:S1068"9Remove this unused "SUPPORTED_AGGREGATORS" private field.(›ÅÈ{8×­­úÐ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8†ÞÔ³Ð-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™±²Î8†ÞÔ³Ð-
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8×­­úÐ-
+esquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(‰¼ÑÍ8†ÞÔ³Ð-

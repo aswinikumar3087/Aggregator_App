@@ -1,0 +1,349 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:m0="http://wsi.nat.bt.com/2005/06/StandardHeader/" xmlns:m1="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Activities" xmlns:m2="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Incidents" xmlns:m3="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Agreements" xmlns:m4="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/BaseTypes" xmlns:m5="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Portfolio" xmlns:m6="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Services" xmlns:m7="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/CoreClasses/Specifications" xmlns:m8="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/HR" xmlns:m9="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Scheduling" xmlns:m10="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Parties" xmlns:m11="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Places" xmlns:m12="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/MTOSI" xmlns:m13="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/MTOSI/Structs" xmlns:m14="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/MTOSI/Enums" xmlns:m15="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/OperationalAnalysis" xmlns:m16="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Interaction" xmlns:m17="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Users" xmlns:m18="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30/CCM/CreateTaskRequest/Parties/PartyRoles/Customer">
+ <SOAP-ENV:Body>
+  <m:createTaskRequest xmlns:m="http://capabilities.nat.bt.com/xsd/ManageEngineeringTask/2008/06/30"   xsi:schemaLocation=" ManageEngineeringTask.20080630.xsd" >
+   <m0:standardHeader>
+    <m0:e2e>
+     <m0:E2EDATA>E2E.busTxnHdr=PCK002069</m0:E2EDATA>
+    </m0:e2e>
+    <m0:serviceState>
+     <m0:stateCode>OK</m0:stateCode>
+    </m0:serviceState>
+    <m0:serviceAddressing>
+     <m0:from>http://ccm.intra.bt.com/EWOCS</m0:from>
+     <m0:to>
+      <m0:address>http://ccm.intra.bt.com/METsk</m0:address>
+     </m0:to>
+     <m0:replyTo>
+      <m0:address>http://ccm.intra.bt.com/EWOCS</m0:address>
+      <m0:contextItemList>
+       <m0:contextItem contextId="http://ccm.intra.bt.com/EWOCS" contextName="serviceType">EWOCS</m0:contextItem>
+       <m0:contextItem contextId="http://ccm.intra.bt.com/EWOCS" contextName="instanceId">EO</m0:contextItem>
+       <m0:contextItem contextId="http://ccm.intra.bt.com/EWOCS" contextName="taskIdentifier">306213</m0:contextItem>
+      </m0:contextItemList>
+     </m0:replyTo>
+     <m0:messageId>43239030</m0:messageId>
+     <m0:serviceName>http://capabilities.nat.bt.com/ManageEngineeringTask</m0:serviceName>
+     <m0:action>http://capabilities.intra.bt.com/ManageEngineeringTask#CreateTaskRequest</m0:action>
+    </m0:serviceAddressing>
+    <m0:serviceSpecification>
+     <m0:payloadFormat>XML</m0:payloadFormat>
+     <m0:version>1.0</m0:version>
+     <m0:revision>0</m0:revision>
+    </m0:serviceSpecification>
+   </m0:standardHeader>
+   <m:task>
+    <m1:telephoneNumber>306213</m1:telephoneNumber>
+    <m1:expectedFinishDateTime>02/05/2019 07:00:00</m1:expectedFinishDateTime>
+    <m1:secondaryCommitmentLatestFinish>02/05/2019 23:59:00</m1:secondaryCommitmentLatestFinish>
+    <m1:responseIndicator>NONE</m1:responseIndicator>
+    <m1:workLocationQualifier>C</m1:workLocationQualifier>
+    <m1:importantClass>15</m1:importantClass>
+    <m1:jIN>
+     <m1:name>TASKIDENTIFIER</m1:name>
+     <m1:value>HS090Z001</m1:value>
+    </m1:jIN>
+    <m1:associateTask>
+     <m1:name>TIMESHEETREFERENCENUMBER</m1:name>
+     <m1:value>LDC/JJ090Z</m1:value>
+    </m1:associateTask>
+    <m1:associateTask>
+     <m1:name>DUMMYTASKID</m1:name>
+     <m1:value>HS090Z001</m1:value>
+    </m1:associateTask>
+    <m1:taskCategory>
+     <m1:name>FULFILMENT</m1:name>
+    </m1:taskCategory>
+    <m1:problem>
+     <m2:problemReportCode>NDT</m2:problemReportCode>
+     <m2:mainproblemLocation>LN</m2:mainproblemLocation>
+     <m2:problemCategory>
+      <m2:productType>COMPLEX</m2:productType>
+     </m2:problemCategory>
+     <m2:fault>
+      <m2:dateTimeRaised>26/04/2019 16:18:05</m2:dateTimeRaised>
+     </m2:fault>
+    </m1:problem>
+                <m1:careLevel>
+                    <m3:name>STANDARD CARE</m3:name>
+                </m1:careLevel>
+    <m1:taskNote>
+     <m1:name>HAZARD</m1:name>
+     <m1:value><![CDATA[No Data Available Via Ewocs]]></m1:value>
+    </m1:taskNote>
+    <m1:taskNote>
+     <m1:name>WARNING</m1:name>
+     <m1:value><![CDATA[No Data Available Via Ewocs]]></m1:value>
+    </m1:taskNote>
+    <m1:taskNote>
+    <m1:name>LINETEST</m1:name>
+    <m1:value><![CDATA[No Data Available Via Ewocs]]></m1:value>
+   </m1:taskNote>
+   <m1:taskNote>
+    <m1:name>TECHNICAL</m1:name>
+    <m1:value><![CDATA[There are no Technical Notes]]></m1:value>
+   </m1:taskNote>
+    <m1:taskNote>
+     <m1:name>ACCESS</m1:name>
+     <m1:value><![CDATA[There are NO ACCESS Notes]]></m1:value>
+    </m1:taskNote>
+    <m1:taskNote>
+     <m1:name>GENERAL</m1:name>
+     <m1:value><![CDATA[CASE NOTES
+
+]]></m1:value>
+    </m1:taskNote>
+    <m1:taskNote>
+    <m1:name> PRIORITY</m1:name>
+                <m1:value><![CDATA[]]></m1:value>
+   </m1:taskNote>
+   <m1:taskNote>
+    <m1:name>TASK</m1:name>
+    <m1:value><![CDATA[************** AUTO BUILT EWOCS Primary Task **************
+****** Reminder: Only Complete Fully completed tasks  ******
+Contact Name: UMESH  KARKAR
+CONTACT: 01908 6248644
+ADDRESS IS PLOT_STONE_HOUSE_LANE_Y5029,,,,,,IP42NL
+ORDER DESCRIPTION BETRMT- ESIDE CABLE
+L/TUD/861_FTTP_PLOT_STONE_HOUSE_LANE_Y5029_PLOTCALLOFF
+CASE TASKS
+1#NI4S#NEXT WORKING DAY HR EMERGENCY RESPONSE PER OCCASION
+1#NI6X#GREENFIELD FTTP FIBRE TENANCY CONNECTION AND COMMISSION
+
+ClAIMED WAU's
+0#NI4S# (0:00)
+0#NI6X# (0:00)
+
+Remaining WAU's
+1#NI4S
+# (2:00)1#NI6X
+# (2:24)
+************************************************************CASE NOTES
+]]></m1:value>
+   </m1:taskNote>
+    <m1:order>
+     <m3:toReference>WAJJ090Z</m3:toReference>
+     <m3:orderItem>
+      <m3:note>
+       <m3:noteType>PRODUCTDESCRIPTION</m3:noteType>
+       <m3:text>NEXT WORKING DAY HR EMERGENCY RESPONSE PER OCCASION</m3:text>
+      </m3:note>
+      <m3:quantity>
+       <m4:units>UNITS</m4:units>
+       <m4:amount>+1</m4:amount>
+      </m3:quantity>
+      <m3:productInstance>
+       <m5:productName>
+        <m7:name>NAMES</m7:name>
+        <m7:identifier>
+         <m7:name>NI4S</m7:name>
+        </m7:identifier>
+       </m5:productName>
+      </m3:productInstance>
+      <m3:wauProductInstance>
+       <m5:wauProductType>
+        <m5:name>BTWAUProductType</m5:name>
+         <m5:value><![CDATA[S]]></m5:value>
+       </m5:wauProductType>
+       <m5:note>
+        <m5:noteType>BTWAUProductLongDescription</m5:noteType>
+        <m5:text><![CDATA[All activities necessary to apply Smartwater to BT plant and or equipment including but not limited to: carry out local assessment of plant requiring identification; Application of Smartwater solution to  items of plant or equipment requiring identification; application of all labels, stickers; recording of GPS location; all records and forwarding  information electronically to central control.]]></m5:text>
+       </m5:note>
+       <m5:note>
+        <m5:noteType>BTWAUUsage</m5:noteType>
+        <m5:text><![CDATA[Application of Smartwater security product to BT plant and equipment. One unit per location, a location being defined as a jointbox, manhole, cabinet or pole. Allow other WAU's as necessary for set ups etc.]]></m5:text>
+       </m5:note>
+       <m5:wauUnitOfIssue>
+        <m5:name>BTUnitOfIssue</m5:name>
+        <m5:value><![CDATA[Per Location]]></m5:value>
+       </m5:wauUnitOfIssue>
+       <m5:wauSingleUnitTime>
+        <m5:name>BTSingleUnitTime</m5:name>
+        <m5:value>2</m5:value>
+       </m5:wauSingleUnitTime>
+<m5:wauEngineeringActivity>
+<m5:name>BTEngineeringActivity</m5:name>
+<m5:value>Fibre Provide</m5:value>
+</m5:wauEngineeringActivity>
+      </m3:wauProductInstance>
+     </m3:orderItem>
+     <m3:orderItem>
+      <m3:note>
+       <m3:noteType>PRODUCTDESCRIPTION</m3:noteType>
+       <m3:text>GREENFIELD FTTP FIBRE TENANCY CONNECTION AND COMMISSION</m3:text>
+      </m3:note>
+      <m3:quantity>
+       <m4:units>UNITS</m4:units>
+       <m4:amount>+1</m4:amount>
+      </m3:quantity>
+      <m3:productInstance>
+       <m5:productName>
+        <m7:name>NAMES</m7:name>
+        <m7:identifier>
+         <m7:name>NI6X</m7:name>
+        </m7:identifier>
+       </m5:productName>
+      </m3:productInstance>
+      <m3:wauProductInstance>
+       <m5:wauProductType>
+        <m5:name>BTWAUProductType</m5:name>
+         <m5:value><![CDATA[P]]></m5:value>
+       </m5:wauProductType>
+       <m5:note>
+        <m5:noteType>BTWAUProductLongDescription</m5:noteType>
+        <m5:text><![CDATA[All activities necessary to test wideband terminal equipment including but not limited to ; Set up site; fitting of service card or Ethernet Access Direct (EAD) NTE; test ;commission and records.]]></m5:text>
+       </m5:note>
+       <m5:note>
+        <m5:noteType>BTWAUUsage</m5:noteType>
+        <m5:text><![CDATA[Fit and test activity. Fitting of a service card or EAD NTE.]]></m5:text>
+       </m5:note>
+       <m5:wauUnitOfIssue>
+        <m5:name>BTUnitOfIssue</m5:name>
+        <m5:value><![CDATA[Per Customer Connection]]></m5:value>
+       </m5:wauUnitOfIssue>
+       <m5:wauSingleUnitTime>
+        <m5:name>BTSingleUnitTime</m5:name>
+        <m5:value>2.4</m5:value>
+       </m5:wauSingleUnitTime>
+<m5:wauEngineeringActivity>
+<m5:name>BTEngineeringActivity</m5:name>
+<m5:value>Fibre Provide</m5:value>
+</m5:wauEngineeringActivity>
+      </m3:wauProductInstance>
+     </m3:orderItem>
+     <m3:orderIdentifier>
+      <m3:name>ProjectId</m3:name>
+      <m3:value>NU7PT</m3:value>
+     </m3:orderIdentifier>
+    </m1:order>
+    <m1:taskRole>
+     <m1:name>LOB</m1:name>
+     <m1:value>Openreach</m1:value>
+    </m1:taskRole>
+    <m1:managedElement>
+     <m12:aliasNameList>
+      <m13:attributeName>CODE1141</m13:attributeName>
+      <m13:attributeValue>L/TUD</m13:attributeValue>
+     </m12:aliasNameList>
+     <m12:equipmentHolder>
+      <m12:location>
+       <m11:accessFor24hr>true</m11:accessFor24hr>
+      </m12:location>
+     </m12:equipmentHolder>
+    </m1:managedElement>
+    <m1:siteContact>
+     <m18:customerSite>
+      <m18:customerContact>
+       <m18:contactDetails>
+        <m10:person>
+         <m10:personName>
+          <m10:forename>UMESH </m10:forename>
+          <m10:surname>KARKAR</m10:surname>
+         </m10:personName>
+        </m10:person>
+        <m10:phoneNumber>
+         <m10:phoneNumber>01908 6248644</m10:phoneNumber>
+        </m10:phoneNumber>
+        <m10:address>
+         <m11:welshPostalAddress>
+          <m11:uKPostalAddress>
+           <m11:thoroughfareNumber></m11:thoroughfareNumber>
+           <m11:thoroughfareName>PLOT_STONE_HOUSE_LANE_Y5029,,,,,,IP42NL</m11:thoroughfareName>
+           <m11:dependentThoroughfareName></m11:dependentThoroughfareName>
+           <m11:dependentLocality></m11:dependentLocality>
+           <m11:subPremise></m11:subPremise>
+           <m11:organization></m11:organization>
+           <m11:postTown></m11:postTown>
+           <m11:buildingName></m11:buildingName>
+           <m11:county></m11:county>
+             <m11:poBox></m11:poBox>
+           <m11:postCode>IP4 2NL</m11:postCode>
+          </m11:uKPostalAddress>
+         </m11:welshPostalAddress>
+         <m11:country>
+          <m11:name>GB</m11:name>
+         </m11:country>
+        </m10:address>
+       </m18:contactDetails>
+      </m18:customerContact>
+     </m18:customerSite>
+    </m1:siteContact>
+    <m1:productInstance>
+     <m5:productSpecification>
+      <m5:serviceSpecification>
+       <m6:id>306213</m6:id>
+      </m5:serviceSpecification>
+     </m5:productSpecification>
+    </m1:productInstance>
+    <m1:serviceInstance>
+     <m6:definitelyAffectedFlag>true</m6:definitelyAffectedFlag>
+    </m1:serviceInstance>
+    <m1:taskCharacteristic>
+     <m1:name>GANGDETAILS</m1:name>
+                       <m1:value><![CDATA[000000000+000000000+0000000+true]]></m1:value>
+                     </m1:taskCharacteristic>
+    <m1:taskCharacteristic>
+     <m1:name>BTJOBPACKURL</m1:name>
+     <m1:value><![CDATA[http://10.54.209.97:80/ORjobpackretrievalweb/default.aspx?id=2283101]]></m1:value>
+    </m1:taskCharacteristic>
+    <m1:taskCharacteristic>
+     <m1:name>UPSTREAMDATABANDWIDTH</m1:name>
+     <m1:value></m1:value>
+    </m1:taskCharacteristic>
+    <m1:taskCharacteristic>
+     <m1:name>DOWNSTREAMDATABANDWIDTH</m1:name>
+     <m1:value></m1:value>
+    </m1:taskCharacteristic>
+    <m1:taskCharacteristic>
+      <m1:name>JOBTYPEID</m1:name>
+      <m1:value>COMPFTTP1</m1:value>
+    </m1:taskCharacteristic>
+    <m1:taskCharacteristic>
+     <m1:name>PROPOSEDIND</m1:name>
+     <m1:value>P</m1:value>
+    </m1:taskCharacteristic>
+    <m1:taskCharacteristic>
+     <m1:name>TECHNOLOGYTYPE</m1:name>
+     <m1:value>Other</m1:value>
+    </m1:taskCharacteristic>
+     <m1:taskCharacteristic>
+  <m1:name>Rplusidentifier</m1:name>
+  <m1:value>Y</m1:value>
+    </m1:taskCharacteristic>
+  <m1:taskCharacteristic>
+ <m1:name>Rplusfunction</m1:name>
+  <m1:value>A</m1:value>
+</m1:taskCharacteristic>
+  <m1:taskCharacteristic>
+ <m1:name>VisualiserDataAvailable</m1:name>
+ <m1:value>N</m1:value>
+ </m1:taskCharacteristic>
+    <m1:taskInstallation>
+     <m1:id>012987-011</m1:id>
+    </m1:taskInstallation>
+    <m1:taskSpecification>
+     <m1:skillSpecification>
+      <m8:id>AJPR</m8:id>
+      <m8:type>PRIMARY</m8:type>
+      <m8:skillDuration>00120</m8:skillDuration>
+      <m8:numberOfPeople>1</m8:numberOfPeople>
+     </m1:skillSpecification>
+     <m1:skillSpecification>
+      <m8:id>AJBS</m8:id>
+      <m8:type>SECONDARY</m8:type>
+      <m8:skillDuration>00144</m8:skillDuration>
+      <m8:numberOfPeople>1</m8:numberOfPeople>
+     </m1:skillSpecification>
+    </m1:taskSpecification>
+    <m1:taskCharge>
+     <m1:personInformedOnCharges>N</m1:personInformedOnCharges>
+    </m1:taskCharge>
+    <m1:resourceRequirements>
+      <m1:minResourceNumber>1</m1:minResourceNumber>
+        <m1:maxResourceNumber>2</m1:maxResourceNumber>
+        <m1:optimumResourceNumber>2</m1:optimumResourceNumber>
+        <m1:resourceType>ENGINEER</m1:resourceType>
+    </m1:resourceRequirements>
+   </m:task>
+  </m:createTaskRequest>
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetItemDetailsByEstimateNumberResponse>
+<header>
+	<stateCode>100</stateCode>
+	<errorCode>50</errorCode>
+	<errorDesc>EMPPAL Service is not available</errorDesc>
+	<errorText>This is a dummy response from Service Bus to Aggregator to proceed with aggregation flow</errorText>
+	<fromAddress>EMPPAL</fromAddress>
+	<toAddress>ORMETSK</toAddress>
+	<messageId>managed1_admetbma01</messageId>
+	<action>Response</action>
+</header>
+<body>
+	<estimateNumber>dummyValue
+	</estimateNumber>
+	<item>
+		<itemCode/>
+		<description/>
+		<RLV/>
+		<UOM/>
+	</item>
+</body>
+</GetItemDetailsByEstimateNumberResponse>

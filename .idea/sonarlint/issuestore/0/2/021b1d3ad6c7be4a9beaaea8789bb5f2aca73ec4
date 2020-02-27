@@ -1,0 +1,100 @@
+
+”squid:S1319"pThe type of the "sCodeMap" object should be an interface such as "Map" rather than the implementation "HashMap".(Ÿ¦€„ùÿÿÿÿ8Ğõ…¯Ğ-
+qsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¢ªÑ8šÆùËË-
+ƒsquid:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ø²µáûÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ÏöÃïøÿÿÿÿ8šÆùËË-
+dsquid:S3027½"FPut single-quotes around '/' to use the faster "indexOf(char)" method.(¢£&8šÆùËË-
+_squid:S3457Œ"AFormat specifiers should be used instead of string concatenation.(Â§¸58šÆùËË-
+€squid:S1488¯"\Immediately throw this expression instead of assigning it to the temporary variable "metEx".(‚¸„çüÿÿÿÿ8šÆùËË-
+{squid:S2737Ò"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÎÔ¶óşÿÿÿÿ8šÆùËË-
+Rsquid:S1172"3Remove this unused method parameter "inputRequest".(¢´Ö8šÆùËË-
+osquid:CommentedOutCodeLine‚	"<This block of commented-out lines of code should be removed.(ÏöÃïøÿÿÿÿ8šÆùËË-
+jsquid:S3027ë"FPut single-quotes around '?' to use the faster "indexOf(char)" method.(â¨Óùÿÿÿÿ8šÆùËË-
+qsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾èô¾8šÆùËË-
+qsquid:S00117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çîış8šÆùËË-
+jsquid:S3027‚"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(³Ğ†ışÿÿÿÿ8šÆùËË-
+jsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(²˜Ş²8šÆùËË-
+vsquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÖÜØşÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLine»
+"<This block of commented-out lines of code should be removed.(¢Ğ¶•şÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLineÕ
+"<This block of commented-out lines of code should be removed.(ëòŒüÿÿÿÿ8šÆùËË-
+@squid:S1643Ç"Use a StringBuilder instead.(³—‰şÿÿÿÿ8šÆùËË-
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÉÅşÿÿÿÿ8šÆùËË-
+vsquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¾Ù¤üÿÿÿÿ8šÆùËË-
+jsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(ëµ˜Ğ8šÆùËË-
+osquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8šÆùËË-
+qsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§²¦ª8šÆùËË-
+isquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(Ù»è/8šÆùËË-
+vsquid:ModifiersOrderCheck#"EReorder the modifiers to comply with the Java Language Specification.(”Ì÷Îøÿÿÿÿ8ƒ¬ùËË-
+Msquid:S1940¥")Use the opposite operator ("!=") instead.(çıÈûÿÿÿÿ8šÆùËË-
+jsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(©¹ğè8šÆùËË-
+xsquid:S2293ç	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚›Åå8šÆùËË-
+squid:S1319Á	"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(­½óù8šÆùËË-
+Ssquid:S1481“"/Remove this unused "taskTypeId" local variable.(•ÈáÂøÿÿÿÿ8Ğõ…¯Ğ-
+jsquid:CommentedOutCodeLine¢	"<This block of commented-out lines of code should be removed.(­æÀ³8šÆùËË-
+osquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8Ğõ…¯Ğ-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬˜±Ñÿÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(ËáŸöüÿÿÿÿ8Ğõ…¯Ğ-
+vsquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê˜é¢ıÿÿÿÿ8šÆùËË-
+vsquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÁ•şÿÿÿÿ8šÆùËË-
+‘squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ÿ¦€„ùÿÿÿÿ8Ğõ…¯Ğ-
+qsquid:S1871¬"MThis branch's code block is the same as the block for the branch on line 928.(ÒÌâ–øÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(«ƒßËùÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLine‰	"<This block of commented-out lines of code should be removed.(ÏöÃïøÿÿÿÿ8šÆùËË-
+Usquid:S1172"6Remove this unused method parameter "requestParamMap".(¶·Í°8Ğõ…¯Ğ-
+qsquid:S1871¿"MThis branch's code block is the same as the block for the branch on line 952.(ÒÌâ–øÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ8Ğõ…¯Ğ-
+usquid:S1149Á	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(­½óù8šÆùËË-
+vsquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇòÄüÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(’‰àÕúÿÿÿÿ8Ğõ…¯Ğ-
+osquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÏöÃïøÿÿÿÿ8šÆùËË-
+jsquid:CommentedOutCodeLine«
+"<This block of commented-out lines of code should be removed.(ªÂû¶8šÆùËË-
+qsquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñû©®8šÆùËË-
+{squid:S2737¸	"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÎÔ¶óşÿÿÿÿ8šÆùËË-
+vsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œßˆ‡ùÿÿÿÿ8šÆùËË-
+qsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒâ¦•8šÆùËË-
+osquid:CommentedOutCodeLine‘	"<This block of commented-out lines of code should be removed.(™ğ‘«ùÿÿÿÿ8šÆùËË-
+ƒsquid:S1149“"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•ÈáÂøÿÿÿÿ8Ğõ…¯Ğ-
+Gsquid:S1905ï")Remove this unnecessary cast to "String".(‡‰
+8šÆùËË-
+]squid:S2121ç"9Remove this "substring" call; it has predictable results.(òû¢‹úÿÿÿÿ8šÆùËË-
+Usquid:S1172Ã"1Remove this unused method parameter "actionType".(ßîı±şÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(šèŞšúÿÿÿÿ8Ğõ…¯Ğ-
+osquid:CommentedOutCodeLineÉ	"<This block of commented-out lines of code should be removed.(€óŠÜüÿÿÿÿ8àş—¥Ò-
+jsquid:CommentedOutCodeLineé
+"<This block of commented-out lines of code should be removed.(‘©ê8šÆùËË-
+osquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(³Áãôüÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8šÆùËË-
+;squid:S1643Ü"Use a StringBuilder instead.(êŒÄÕ8šÆùËË-
+ƒsquid:S1149è"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùíÏ“ûÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ŠÒ÷Ãıÿÿÿÿ8šÆùËË-
+[squid:S2629ˆ"7Use the built-in formatting to construct this argument.(çŠÑĞúÿÿÿÿ8šÆùËË-
+psquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™)8šÆùËË-
+_squid:S2259å"@A "NullPointerException" could be thrown; "mt" is nullable here.(»—õË8àş—¥Ò-
+Gsquid:S1905ô")Remove this unnecessary cast to "String".(‡‰
+8šÆùËË-
+Jsquid:S1172É"&Remove these unused method parameters.(±ñ¸Àüÿÿÿÿ8šÆùËË-
+zsquid:S2629Œ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Â§¸58šÆùËË-
+jsquid:CommentedOutCodeLine¨	"<This block of commented-out lines of code should be removed.(¾¤º8ƒ¬ùËË-
+vsquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Å¥Àüÿÿÿÿ8šÆùËË-
+vsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ§àÈûÿÿÿÿ8šÆùËË-
+qsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á´Ş±8šÆùËË-
+Nsquid:S2093É"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8šÆùËË-
+vsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŞ±©ùÿÿÿÿ8šÆùËË-
+{squid:S2737¼"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÎÔ¶óşÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(çÏÈÆşÿÿÿÿ8Ğõ…¯Ğ-
+jsquid:CommentedOutCodeLine»	"<This block of commented-out lines of code should be removed.(¤à ‰8šÆùËË-
+psquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íú©s8šÆùËË-
+tsquid:S1149ƒ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(êÈƒ8šÆùËË-
+Vsquid:S1197\"8Move the array designator from the variable to the type.(’¸8šÆùËË-
+esquid:S2259é"AA "NullPointerException" could be thrown; "fis" is nullable here.(ß¶­†ÿÿÿÿÿ8šÆùËË-
+osquid:CommentedOutCodeLine–	"<This block of commented-out lines of code should be removed.(ÏöÃïøÿÿÿÿ8šÆùËË-
+qsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûš´Ø8šÆùËË-
+esquid:S3457ˆ"AFormat specifiers should be used instead of string concatenation.(çŠÑĞúÿÿÿÿ8šÆùËË-
+usquid:S1192¿"VDefine a constant instead of duplicating this literal "Input Parameters NULL" 7 times.(ğÊ…ù8šÆùËË-
+osquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(¨àÀáıÿÿÿÿ8šÆùËË-
+Vsquid:S1197n"8Move the array designator from the variable to the type.(å•¹¨8šÆùËË-
+jsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Ğóá‹8Ğõ…¯Ğ-
+”squid:S1192Ş"uDefine a constant instead of duplicating this literal " : received in invalid dateformat from Input Request" 6 times.(µ¬“™8šÆùËË-

@@ -1,0 +1,8 @@
+
+Lsquid:S1066Ã"/Merge this if statement with the enclosing one.(¡ğÏıÿÿÿÿ
+zsquid:S1488]"cImmediately return this expression instead of assigning it to the temporary variable "returnValue".(—¥­÷
+{squid:S1149~"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(üÛÂŒùÿÿÿÿ
+esquid:S5361´"HReplace this call to "replaceAll()" by a call to the "replace()" method.(äô‡†ÿÿÿÿÿ
+esquid:S5361µ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(›ö„Âùÿÿÿÿ
+`squid:S5361¶"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ˆµ®ì
+gsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ

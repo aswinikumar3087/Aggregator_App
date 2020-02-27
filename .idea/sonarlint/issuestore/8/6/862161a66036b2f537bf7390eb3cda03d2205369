@@ -1,0 +1,8 @@
+
+isquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ£»
+>squid:S1214""Move constants to a class or enum.(ρ—“Ζϊÿÿÿÿ
+psquid:S00115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ι[
+wsquid:S00115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½‘ύÿÿÿÿÿ
+wsquid:S00115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ύπίΐωÿÿÿÿ
+qsquid:S001151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ΐ€!
+wsquid:S001153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€£Σ–ύÿÿÿÿ

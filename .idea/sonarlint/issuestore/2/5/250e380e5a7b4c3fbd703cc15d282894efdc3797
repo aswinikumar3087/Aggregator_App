@@ -1,0 +1,25 @@
+
+]squid:S1193‹"@Replace the usage of the "instanceof" operator by a catch block.(Æñêúÿÿÿÿ
+@squid:S1905Ï")Remove this unnecessary cast to "String".(ÅíŠ/
+]squid:S1193±"@Replace the usage of the "instanceof" operator by a catch block.(Æñêúÿÿÿÿ
+osquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8ıÓË±Ğ-
+squid:S1488ñ"hImmediately return this expression instead of assigning it to the temporary variable "templateContents".(½á
+}squid:S1488Æ"`Immediately return this expression instead of assigning it to the temporary variable "template".(²‹óÚøÿÿÿÿ
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÓÓı8ıÓË±Ğ-
+zsquid:S1488„"bImmediately return this expression instead of assigning it to the temporary variable "datasource".(ÈÈ¤Õ
+`squid:S5361ë"HReplace this call to "replaceAll()" by a call to the "replace()" method.(œ·ğ
+hsquid:UnusedPrivateMethod";Remove this unused private "checkAllXMLFilesExists" method.(µÓ²¤8ıÓË±Ğ-
+hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(¼ÂÜ°úÿÿÿÿ
+osquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬àÜ†ıÿÿÿÿ
+@squid:S1905ö")Remove this unnecessary cast to "String".(ÅíŠ/
+esquid:S5361Î"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¥ºŞëıÿÿÿÿ
+zsquid:S1488ª"]Immediately return this expression instead of assigning it to the temporary variable "queue".(ïˆ‘×ùÿÿÿÿ
+Ssquid:S2696„"6Make the enclosing method "static" or remove this set.(éú·…øÿÿÿÿ
+}squid:S1192ô"YDefine a constant instead of duplicating this literal "Received null parameters" 3 times.(İª‘ìùÿÿÿÿ8ûšóËË-
+lsquid:S3824Ä"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÂÑ	8ûšóËË-
+wsquid:S4435„"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(éú·…øÿÿÿÿ
+Ysquid:S1068";Remove this unused "resourceManagerInstance" private field.(úí„Ö8ıÓË±Ğ-
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8ıÓË±Ğ-
+dsquid:UnusedPrivateMethodZ"8Remove this unused private "getPropertyFileList" method.(ÿ¨¥»8ıÓË±Ğ-
+_squid:UselessImportCheck"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ8ıÓË±Ğ-
+vsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬àÜ†ıÿÿÿÿ8ûšóËË-

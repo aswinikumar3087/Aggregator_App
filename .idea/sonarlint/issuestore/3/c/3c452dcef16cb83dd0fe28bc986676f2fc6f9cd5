@@ -1,0 +1,3 @@
+
+§%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'org.springframework.amqp.AmqpException' which is a runtime exception.(ºï˜Ýøÿÿÿÿ
+¢%squid:RedundantThrowsDeclarationCheck$"qRemove the declaration of thrown exception 'org.springframework.amqp.AmqpException' which is a runtime exception.(ýäôÞ

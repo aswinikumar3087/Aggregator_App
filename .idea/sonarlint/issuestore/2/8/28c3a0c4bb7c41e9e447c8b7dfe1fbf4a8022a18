@@ -1,0 +1,13 @@
+
+~squid:S4144è"aUpdate this method so that its implementation is not identical to "getStrJMErrorCode" on line 61.(¯‡‘ùÿÿÿÿ
+€squid:S4144ò"cUpdate this method so that its implementation is not identical to "getStrESMFErrorCode" on line 69.(Ìá¼Üýÿÿÿÿ
+~squid:S4144ü"fUpdate this method so that its implementation is not identical to "getStrESMFErrorMessage" on line 77.(‰˜¦Ï
+}squid:S4144†"eUpdate this method so that its implementation is not identical to "getStrFailureLocation" on line 85.(·ô¾ª
+>squid:S1165."'Make this "strJMErrorCode" field final.(—ôÖ‰
+@squid:S11651")Make this "strESMFErrorCode" field final.(îÝû¶
+Hsquid:S11654",Make this "strESMFErrorMessage" field final.(‰‚Å¢ýÿÿÿÿ
+Gsquid:S11657"+Make this "strFailureLocation" field final.(¦‡öÏûÿÿÿÿ
+hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(÷˜Ö›ýÿÿÿÿ
+hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(º¶À¥üÿÿÿÿ
+hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ

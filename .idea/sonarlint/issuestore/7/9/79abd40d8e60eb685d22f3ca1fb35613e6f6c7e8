@@ -1,0 +1,19 @@
+
+xsquid:UselessImportCheck	"MRemove this unused import 'com.bt.metb.aggregator.dataobjects.TaskDetailsDO'.(€Û´8È’¬ÚÑ-
+rsquid:UselessImportCheck"IRemove this unused import 'com.bt.metb.aggregator.dataobjects.RequestVO'.(­¼ĞÎıÿÿÿÿ
+isquid:S3776G"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(Æšè‚
+fsquid:UselessImportCheck";Remove this unused import 'com.bt.metb.aggregator.dao.DAO'.(€““Ä8È’¬ÚÑ-
+`squid:UselessImportCheck"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ8È’¬ÚÑ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÀ»Õüÿÿÿÿ
+@squid:S1643"Use a StringBuilder instead.(ÿ†ãËùÿÿÿÿ8†“Š«Ò-
+qsquid:S1192½"MDefine a constant instead of duplicating this literal "MNPLResponse" 3 times.(®ş”°ıÿÿÿÿ8†“Š«Ò-
+‘squid:S4165»"mRemove this useless assignment; "hashMapResponse" already holds the assigned value along all execution paths.(Ó¼Äûÿÿÿÿÿ8†“Š«Ò-
+Psquid:S1135h"2Complete the task associated to this TODO comment.(“òÈÎ8†“Š«Ò-
+Dsquid:S2129©" Remove this "String" constructor(‡Ï¹‘ıÿÿÿÿ8†“Š«Ò-
+vsquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ñ€şìøÿÿÿÿ8†“Š«Ò-
+ksquid:S1854ç"GRemove this useless assignment to local variable "taskReferenceNumber".(ü¡‡×úÿÿÿÿ8†“Š«Ò-
+fsquid:S1854å"BRemove this useless assignment to local variable "replyToAddress".(ÛøÔíûÿÿÿÿ8†“Š«Ò-
+isquid:S1854ä"ERemove this useless assignment to local variable "replyToInstanceId".(ó¶£­üÿÿÿÿ8†“Š«Ò-
+jsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(˜Œ°‘8†“Š«Ò-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ïİ‡U8†“Š«Ò-
+jsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ğï’á8†“Š«Ò-

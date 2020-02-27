@@ -1,0 +1,168 @@
+
+9squid:S1643õ"Use a StringBuilder instead.(›É«öúÿÿÿÿ
+9squid:S1643’"Use a StringBuilder instead.(›É«öúÿÿÿÿ
+9squid:S1643è
+"Use a StringBuilder instead.(›É«öúÿÿÿÿ
+9squid:S1643…"Use a StringBuilder instead.(›É«öúÿÿÿÿ
+9squid:S1643º"Use a StringBuilder instead.(²†ìÿùÿÿÿÿ
+;squid:S2629¼"$Invoke method(s) only conditionally.(óÆ¨-
+;squid:S2629Ï"$Invoke method(s) only conditionally.(óÆ¨-
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(÷—•–
+ssquid:S1192§"VDefine a constant instead of duplicating this literal "\" from Input Request" 3 times.(ü¯Ë©üÿÿÿÿ
+hsquid:S1192Ï"KDefine a constant instead of duplicating this literal "identifier" 4 times.(¹¢â¢üÿÿÿÿ
+squid:S1192©"hDefine a constant instead of duplicating this literal "Message Transformer :: extractValue :: " 3 times.(¡¹ª(
+fsquid:S1192"NDefine a constant instead of duplicating this literal "WMIGMessageId" 6 times.(”‘ÉÃ
+gsquid:S1192²"JDefine a constant instead of duplicating this literal "messageId" 3 times.(Ç²¸Œşÿÿÿÿ
+|squid:S1192•"dDefine a constant instead of duplicating this literal "MessageTransformer :: transform :: " 6 times.(÷¯ÕÊ
+‹squid:S1192J"oDefine a constant instead of duplicating this literal "MessageTransformer :: MessageTransformer() :: " 4 times.(Ã¯È¢ıÿÿÿÿ
+msquid:S1192"VDefine a constant instead of duplicating this literal "Input Parameters NULL" 7 times.(ßüßm
+‰squid:S1192Ÿ"qDefine a constant instead of duplicating this literal " : recieved in invalid format from Input Request" 3 times.(œœŞı
+dsquid:S1192Î"LDefine a constant instead of duplicating this literal "productName" 4 times.(çÛµÊ
+ssquid:S1192â"VDefine a constant instead of duplicating this literal "Input parameters NULL" 3 times.(‰²öûÿÿÿÿ
+squid:S1192Š"bDefine a constant instead of duplicating this literal "MessageTransformer : transform : " 4 times.(ÌÀ—Åúÿÿÿÿ
+isquid:S1192‰"LDefine a constant instead of duplicating this literal "productType" 3 times.(ïıÎòüÿÿÿÿ
+isquid:S1192¦"LDefine a constant instead of duplicating this literal "<WM_Request" 3 times.(»øĞÚşÿÿÿÿ
+dsquid:S1192´"LDefine a constant instead of duplicating this literal "HI_SVC_NAME" 3 times.(ÌÃÍÑ
+dsquid:S1192ƒ"GDefine a constant instead of duplicating this literal "UTF-8" 14 times.(åÀÉúıÿÿÿÿ
+ƒsquid:S1192¦"fDefine a constant instead of duplicating this literal "\" : found starting or ending with \"" 3 times.(Ñã€£ÿÿÿÿÿ
+Fsquid:S1066ğ"/Merge this if statement with the enclosing one.(ƒİ¦x
+Lsquid:S1066¬"/Merge this if statement with the enclosing one.(ÿªœæûÿÿÿÿ
+bsquid:S1301ì"KReplace this "switch" statement by "if" statements to increase readability.(øÊÇ\
+bsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øÊÇ\
+bsquid:S1301»"KReplace this "switch" statement by "if" statements to increase readability.(øÊÇ\
+squid:S1319±"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(š³çûÿÿÿÿ
+squid:S1319ğ"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(›êïÑûÿÿÿÿ
+…squid:S1319–"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ß¤­’
+€squid:S1488µ"cImmediately return this expression instead of assigning it to the temporary variable "strXMLToRet".(ôŸß™ûÿÿÿÿ
+€squid:S1488•"cImmediately return this expression instead of assigning it to the temporary variable "strXMLToRet".(Ìà•Ãşÿÿÿÿ
+|squid:S1488°"dImmediately return this expression instead of assigning it to the temporary variable "strXMLLinked".(ğÿÿ¼
+€squid:S1488î"cImmediately throw this expression instead of assigning it to the temporary variable "metException".(˜áÈÒıÿÿÿÿ
+‰squid:S1488Ê"lImmediately return this expression instead of assigning it to the temporary variable "strFormattedPostCode".(Ô†íËûÿÿÿÿ
+Zsquid:S00107‚"<Method has 8 parameters, which is greater than 7 authorized.(¾‹Š©ùÿÿÿÿ
+Vsquid:S00107Â	"=Method has 18 parameters, which is greater than 7 authorized.( ûŒ
+Gsquid:S5411ù"*Use the primitive boolean expression here.(—¥÷ ûÿÿÿÿ
+Gsquid:S5411§"*Use the primitive boolean expression here.(—¥÷ ûÿÿÿÿ
+jsquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ëôº
+jsquid:S00117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğı¶¹
+jsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‡ªû
+ssquid:S1149œ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÜÌèãûÿÿÿÿ
+ssquid:S1149®"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(À§ıÿÿÿÿ
+ssquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(À§ıÿÿÿÿ
+ssquid:S1149É	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(À§ıÿÿÿÿ
+|squid:S1149ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×š´±ûÿÿÿÿ
+nsquid:S1149Í"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÚüÄª
+nsquid:S1149â"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(áìÏ¬
+osquid:ModifiersOrderCheck."EReorder the modifiers to comply with the Java Language Specification.(« ¤ßùÿÿÿÿ
+jsquid:ModifiersOrderCheck/"EReorder the modifiers to comply with the Java Language Specification.(­Œ§
+osquid:ModifiersOrderCheck3"EReorder the modifiers to comply with the Java Language Specification.(÷¤İ¨ıÿÿÿÿ
+Osquid:S3010@"8Remove this assignment of "wmgResourceManagerInterface".(ÌÜĞò
+Tsquid:S3010b"8Remove this assignment of "wmgResourceManagerInterface".(œÈê¢ûÿÿÿÿ
+Jsquid:S3010c"3Remove this assignment of "wmgPropertiesInterface".(ì£Òˆ
+Osquid:S3010r"8Remove this assignment of "wmgResourceManagerInterface".(öÑöÇ
+Jsquid:S3010s"3Remove this assignment of "wmgPropertiesInterface".(ì§˜ñ
+Rsquid:S3010"5Remove this assignment of "resourceManagerInterface".(Âİ©îşÿÿÿÿ
+Lsquid:EmptyStatementUsageCheckÖ"Remove this empty statement.(Åñ­õşÿÿÿÿ
+Msquid:S2696ı"6Make the enclosing method "static" or remove this set.(È ´
+Isquid:S1905ÿ",Remove this unnecessary cast to "Templates".(’ÃƒÈşÿÿÿÿ
+Vsquid:S4719ƒ"9Replace charset name argument with StandardCharsets.UTF_8(åÀÉúıÿÿÿÿ
+Nsquid:S2696‹"6Make the enclosing method "static" or remove this set.(½Ş±…
+Isquid:S1905",Remove this unnecessary cast to "Templates".(›®é£üÿÿÿÿ
+Qsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(´¯‚‘
+Msquid:S2696«"6Make the enclosing method "static" or remove this set.(È ´
+Dsquid:S1905®",Remove this unnecessary cast to "Templates".(·¢‰Ş
+Vsquid:S4719º"9Replace charset name argument with StandardCharsets.UTF_8(åÀÉúıÿÿÿÿ
+Nsquid:S2696Ä"6Make the enclosing method "static" or remove this set.(½Ş±…
+Csquid:S1905Æ",Remove this unnecessary cast to "Templates".(°ğ©
+Qsquid:S4719Î"9Replace charset name argument with StandardCharsets.UTF_8(´¯‚‘
+usquid:S2139ş"XEither log this exception and handle it, or rethrow it with some contextual information.(ÓáĞ¥øÿÿÿÿ
+usquid:S2139ƒ"XEither log this exception and handle it, or rethrow it with some contextual information.(¼Ôîàùÿÿÿÿ
+Vsquid:S4719Î"9Replace charset name argument with StandardCharsets.UTF_8(¾™µÿÿÿÿÿ
+Jsquid:S2755Ú"-Disable XML external entity (XXE) processing.(¢¬‘ëşÿÿÿÿ
+isquid:S3776é"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(­°¬d
+Qsquid:S1161é":Add the "@Override" annotation above this method signature(­°¬d
+P"squid:SwitchLastCaseIsDefaultCheckì""Add a default case to this switch.(øÊÇ\
+Wsquid:S1161›":Add the "@Override" annotation above this method signature(¢é¬Êıÿÿÿÿ
+Usquid:S1197›"8Move the array designator from the variable to the type.(¢é¬Êıÿÿÿÿ
+P"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(øÊÇ\
+Rsquid:S1161¸":Add the "@Override" annotation above this method signature(ºËÂ·
+P"squid:SwitchLastCaseIsDefaultCheck»""Add a default case to this switch.(øÊÇ\
+Qsquid:S1161Ò":Add the "@Override" annotation above this method signature(Ïç
+Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(ğËõõùÿÿÿÿ
+Wsquid:S1161Ş":Add the "@Override" annotation above this method signature(½›Øµûÿÿÿÿ
+Dsquid:S1905ñ"'Remove this unnecessary cast to "Node".(ÚèÓıÿÿÿÿ
+Esquid:S2755…	"-Disable XML external entity (XXE) processing.(²µŸš
+Nsquid:S1854‚
+"6Remove this useless assignment to local variable "hm".(ñàúŠ
+{squid:S1450œ
+"^Remove the "cachedXSDSchema" field and declare it as a local variable in the relevant methods.(ûõÛ”ûÿÿÿÿ
+Msquid:S3985
+"0Remove this unused private "METSAXParser" class.(şû¸Õşÿÿÿÿ
+Esquid:S2755Î
+"-Disable XML external entity (XXE) processing.(ŸØˆû
+isquid:S3776Ş
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­°¬d
+Qsquid:S1161Ş
+":Add the "@Override" annotation above this method signature(­°¬d
+Wsquid:S1161’":Add the "@Override" annotation above this method signature(¢é¬Êıÿÿÿÿ
+Usquid:S1197’"8Move the array designator from the variable to the type.(¢é¬Êıÿÿÿÿ
+Rsquid:S1161µ":Add the "@Override" annotation above this method signature(ìĞ‡
+Qsquid:S1161Î":Add the "@Override" annotation above this method signature(Ïç
+Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(ğËõõùÿÿÿÿ
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(½›Øµûÿÿÿÿ
+Nsquid:S2696ö"6Make the enclosing method "static" or remove this set.(½Ş±…
+Dsquid:S1905ø",Remove this unnecessary cast to "Templates".(êÄ»Û
+Qsquid:S4719€"9Replace charset name argument with StandardCharsets.UTF_8(´¯‚‘
+|squid:S1149ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×š´±ûÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ã†Êùÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck¿"Remove this empty statement.(ôŸìúÿÿÿÿ
+Ssquid:S1854û";Remove this useless assignment to local variable "replyTo".(¤Â¢æ
+Asquid:S1905û")Remove this unnecessary cast to "String".(¤Â¢æ
+Fsquid:S1905‘")Remove this unnecessary cast to "String".(Ğš¹‹ûÿÿÿÿ
+`squid:S5361Ğ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Åâ“Ÿ
+`squid:S5361Ğ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Åâ“Ÿ
+`squid:S5361Ğ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Åâ“Ÿ
+esquid:S5361»"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ä­ŸÓùÿÿÿÿ
+tsquid:S2737«"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÎÔ¶óşÿÿÿÿ
+Osquid:S1854ê"7Remove this useless assignment to local variable "doc".(ÑİÓ¸
+Ysquid:S1854é"<Remove this useless assignment to local variable "dBuilder".(Ö´Õ¡úÿÿÿÿ
+Zsquid:S1854è"=Remove this useless assignment to local variable "dbFactory".(Åùæºşÿÿÿÿ
+\squid:S1854ç"?Remove this useless assignment to local variable "inputSource".(Ø÷ÚÓüÿÿÿÿ
+Jsquid:S2755½"-Disable XML external entity (XXE) processing.(ÂÚÆÎüÿÿÿÿ
+Dsquid:S1905Ó"'Remove this unnecessary cast to "Node".(‘ÃÇ¸şÿÿÿÿ
+Gsquid:S2093º"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(›êïÑûÿÿÿÿ
+Jsquid:S2755ü"-Disable XML external entity (XXE) processing.(ÂÚÆÎüÿÿÿÿ
+?squid:S1905Ÿ"'Remove this unnecessary cast to "Node".(ü¨ŞŞ
+Dsquid:S1905¨"'Remove this unnecessary cast to "Node".(¼İ©Ÿüÿÿÿÿ
+Gsquid:S2093ù"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+tsquid:S2737Ù"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÎÔ¶óşÿÿÿÿ
+tsquid:S2737í"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÎÔ¶óşÿÿÿÿ
+jsquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ß¤­’
+Jsquid:S2755 "-Disable XML external entity (XXE) processing.(½·ëÆıÿÿÿÿ
+psquid:S2139Ã"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+Dsquid:S1481û",Remove this unused "replyTo" local variable.(¤Â¢æ
+Msquid:S1481ì"0Remove this unused "respTypeXML" local variable.(äàçûÿÿÿÿ
+Zsquid:UnusedPrivateMethodŒ"4Remove this unused private "cappingNoteText" method.(“Å È
+Xsquid:UnusedPrivateMethod£"-Remove this unused private "validate" method.(ó–Ù¤şÿÿÿÿ
+csquid:UnusedPrivateMethod¯	"=Remove this unused private "getTransformedRequestXML" method.(¨®§Ô
+asquid:UnusedPrivateMethod¥
+"6Remove this unused private "METSAXParser" constructor.(›îÖÚüÿÿÿÿ
+Xsquid:UnusedPrivateMethod¯
+"-Remove this unused private "validate" method.(ó–Ù¤şÿÿÿÿ
+isquid:UnusedPrivateMethodŠ">Remove this unused private "getMaintenanceServiceCode" method.(×Î’ºüÿÿÿÿ
+Ysquid:UnusedPrivateMethodŸ"3Remove this unused private "getMIModuleXML" method.(êÄÜŞ
+csquid:UnusedPrivateMethod"8Remove this unused private "validateGangDetails" method.(°šœùÿÿÿÿ
+bsquid:UnusedPrivateMethodŞ"=Remove this unused private "validateToBeRouteDetails" method.(›¶Şy
+msquid:UnusedPrivateMethodò"BRemove this unused private "validateDonorToBeRouteDetails" method.(Â÷©¬ùÿÿÿÿ
+:squid:S3398¶""Move this method into "LocalUtil".(¼Âà˜
+gsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Í³à½üÿÿÿÿ
+bsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(óÙ¸•
+hsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(˜Ù‰Áşÿÿÿÿ
+hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(ûø£üÿÿÿÿ
+hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(û”šùÿÿÿÿ
+hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(»·¹è
+csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(¸Ìç¡
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(Áˆİıÿÿÿÿ
+bsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ŒíÚ
+csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(•­­­

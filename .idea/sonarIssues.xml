@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/constants/AggregatorConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/constants/WMGConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dao/ConfigurationDataDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dao/DAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dao/DAOInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dao/ListenerConfigDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dataobjects/AggregationCollateInfoDO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dataobjects/AggregationResponseDO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dataobjects/EmppalRequestAttributeReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dataobjects/EmppalRequestVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dataobjects/MetKeyValuePairDO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/dataobjects/TaskDetailsDO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/delegates/GetItemCodeDetailsAggregator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/delegates/MNPLAggregator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/listeners/EmppalMessageSubscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/listeners/InternalMessageRouterBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/listeners/MetbMessageSubscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/listeners/MnplMessageSubscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/messageprocessor/AggregatorCoreProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/model/MnplRequestAttributeReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/mqBeanDefinition/AggregatorBeanDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/mqConfig/RabbitMqProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/mqConfig/RabbitMqsgProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/mqConfig/RabbitMsgProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/mqConfig/RmqConfigReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/requestProcessor/EmppalRequestProcessorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/responseProcessor/EmppalResponseProcessorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/responseProcessor/MnplResponseProcessorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/responseprocessor/EMPPALProcessorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/responseprocessor/IMessageProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/DBLoading.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/EAIHeader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/ESMFLoggerInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/METResourceManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/METResourceManagerInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/MessageTransformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/MessageTransformerInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/WMGResourceManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/WMGResourceManagerInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bt/metb/aggregator/util/XmlUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/rabbitMq.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../metbServiceBus/src/main/java/com/bt/metb/sb/util/RabbitMqMessageProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../metbcore/src/main/java/com/bt/metb/util/WMGUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../R4100-IVVT/application/src/main/java/com/bt/met/msgprocessor/EMPPALProcessorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../R4100-IVVT/application/src/main/java/com/bt/met/processor/requestprocessor/RequestProcessorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../R4100-IVVT/application/src/main/java/com/bt/metb/constants/WMGConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../R4100-IVVT/application/src/main/java/com/bt/metb/dao/ConfigurationDataDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../R4100-IVVT/application/src/main/java/com/bt/wmgateway/dao/interfaces/DAOInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../R4100-IVVT/application/src/main/java/com/bt/wmgateway/util/WMGResourceManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../R4100-IVVT/distribution/src/main/resources/applications/metb/properties/XPath.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../R4100-IVVT/ejb/src/main/java/com/bt/metb/ejb/mdbs/InternalMessageRouterBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Trunk/application/src/main/java/com/bt/wmgateway/messageprocessor/service/InboundWmgMessageProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/javaPractice/src/stringpackage/StringDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/aggregator/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/aggregator/src/main/java/com/bt/metb/aggregator/constants/AggregatorConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/aggregator/src/main/java/com/bt/metb/aggregator/listeners/EmppalMessageSubscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/aggregator/src/main/java/com/bt/metb/aggregator/mqConfig/RmqConfigReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/fnd/aggregator/src/main/java/com/bt/metb/aggregator/delegates/GetItemCodeDetailsAggregator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/maven-parent/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/metbcore/src/main/java/com/bt/metb/MetbStartupApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/metbcore/src/main/java/com/bt/metb/processor/CreateRequestProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/metbcore/src/main/java/com/bt/metb/processor/METBRequestProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/metbcore/src/main/java/com/bt/metb/service/MetbCoreProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/metbcore/src/main/resources/rabbitMq.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/utilityService/src/main/java/com/bt/util/dao/DAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/utilityService/src/main/java/com/bt/util/dao/ReceivedMessagesDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/utilityService/src/main/java/com/bt/util/helperclasses/DBLoading.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/utilityService/src/main/java/com/bt/util/helperclasses/METResourceManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/aggCloned/fnd/utilityService/src/main/java/com/bt/util/helperclasses/METResourceManagerInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

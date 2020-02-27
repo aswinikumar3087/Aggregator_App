@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetItemDetailsByEstimateNumberResponse>
+   <header>
+      <stateCode>OK</stateCode>
+      <errorCode>0</errorCode>
+      <errorDesc>Success</errorDesc>
+      <errorText>Success</errorText>
+      <fromAddress>http://emppal.nat.bt.com</fromAddress>
+      <toAddress>http://ccm.intra.bt.com/METsk</toAddress>
+      <messageId>12345</messageId>
+      <action>http://empal.intra.btcom/xsd/ManageItems/GetItemDetailsByEstimateNumber</action>
+   </header>
+   <body>
+      <estimateNumber>IBFERKMT</estimateNumber>
+      <item>
+         <itemCode>072042</itemCode>
+         <description>CAP SEALING 16C</description>
+         <RLV>0.17000</RLV>
+         <UOM>EACH</UOM>
+      </item>
+      <item>
+         <itemCode>075469</itemCode>
+         <description>PROTECTOR CABLE 1A (BAG = 10)</description>
+         <RLV>3.74</RLV>
+         <UOM>EACH</UOM>
+      </item>
+      <item>
+         <itemCode>071830</itemCode>
+         <description>DRAW ROPE 1 (Reel 500M)</description>
+         <RLV>12.06</RLV>
+         <UOM>EACH</UOM>
+      </item>
+   </body>
+</GetItemDetailsByEstimateNumberResponse>

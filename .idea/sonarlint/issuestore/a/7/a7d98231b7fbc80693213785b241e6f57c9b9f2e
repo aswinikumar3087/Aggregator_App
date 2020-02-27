@@ -1,0 +1,39 @@
+
+Xsquid:S1141~"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8ˆŒÀ«Ò-
+Ysquid:S1141ê"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ˆŒÀ«Ò-
+Qsquid:S1135¤"2Complete the task associated to this TODO comment.(…ïœ†8±Îø¨Ò-
+ssquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8ˆŒÀ«Ò-
+qsquid:S37768"SRefactor this method to reduce its Cognitive Complexity from 210 to the 15 allowed.(Æšè‚8ˆŒÀ«Ò-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ªâ­çÿÿÿÿÿ8ˆŒÀ«Ò-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÀ»Õüÿÿÿÿ8ˆŒÀ«Ò-
+[squid:S1854F"8Remove this useless assignment to local variable "util".(æÈŸÒúÿÿÿÿ8ˆŒÀ«Ò-
+jsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(öÜ¬µ8ˆŒÀ«Ò-
+Ysquid:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ˆŒÀ«Ò-
+jsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(½‘Ñ³8ˆŒÀ«Ò-
+Ysquid:S1141ö"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8ˆŒÀ«Ò-
+Ysquid:S1141«"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ˆŒÀ«Ò-
+Osquid:S1481L",Remove this unused "e2eData" local variable.(ê£ğ·üÿÿÿÿ8ˆŒÀ«Ò-
+osquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(Œ÷‘ûÿÿÿÿ8ˆŒÀ«Ò-
+jsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Î´Ù¤8ˆŒÀ«Ò-
+Osquid:S1481K",Remove this unused "replyTo" local variable.(Ä‘™şÿÿÿÿ8ˆŒÀ«Ò-
+Œsquid:S1192S"iDefine a constant instead of duplicating this literal "<GetItemDetailsByEstimateNumberResponse>" 3 times.(¡Çßåıÿÿÿÿ8ˆŒÀ«Ò-
+Dsquid:S1181ç"%Catch Exception instead of Throwable.(ëß‹™8ˆŒÀ«Ò-
+Ysquid:S1141Ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ˆŒÀ«Ò-
+`squid:UselessImportCheck"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ8ˆŒÀ«Ò-
+isquid:S1854õ"ERemove this useless assignment to local variable "parserServiceImpl".(êŠŞÀşÿÿÿÿ8ˆŒÀ«Ò-
+esquid:S1854"ARemove this useless assignment to local variable "strSMNTSystem".(»¤şäøÿÿÿÿ8ˆŒÀ«Ò-
+zsquid:S2259a"WA "NullPointerException" could be thrown; "emppalAggregationResponse" is nullable here.(¦¡ß×ÿÿÿÿÿ8ˆŒÀ«Ò-
+jsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(´òŠ¬8ˆŒÀ«Ò-
+qsquid:S1192€"RDefine a constant instead of duplicating this literal "aggregationStatus" 3 times.(¬×Ğı8ˆŒÀ«Ò-
+Isquid:S00108¯")Either remove or fill this block of code.(ö¥œÃ8ˆŒÀ«Ò-
+Vsquid:S2629–"7Use the built-in formatting to construct this argument.(›á€ˆ8ˆŒÀ«Ò-
+Msquid:S1940 ")Use the opposite operator ("!=") instead.(şŞ’Šÿÿÿÿÿ8ˆŒÀ«Ò-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïÒ‡šøÿÿÿÿ8ˆŒÀ«Ò-
+Lsquid:S1481F")Remove this unused "util" local variable.(æÈŸÒúÿÿÿÿ8ˆŒÀ«Ò-
+isquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(œ¤¿û8ˆŒÀ«Ò-
+osquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(¨Œîÿÿÿÿÿ8ˆŒÀ«Ò-
+Zsquid:S1481õ"6Remove this unused "parserServiceImpl" local variable.(êŠŞÀşÿÿÿÿ8ˆŒÀ«Ò-
+Vsquid:S1481"2Remove this unused "strSMNTSystem" local variable.(»¤şäøÿÿÿÿ8ˆŒÀ«Ò-
+osquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(™÷¢Âûÿÿÿÿ8ˆŒÀ«Ò-
+Ysquid:S1141¡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ˆŒÀ«Ò-
+jsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(î•€ä8ˆŒÀ«Ò-

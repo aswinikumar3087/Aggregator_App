@@ -1,0 +1,9 @@
+
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ğ¬Õúıÿÿÿÿ
+Jsquid:S1444".Make this "public static instance" field final(ŒÓ¹£ùÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğ¬Õúıÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Œİ¸‹üÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Õ’ÆŸÿÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Œ®÷ç
+‡"squid:ClassVariableVisibilityCheck"TMake instance a static final constant or non-public and provide accessors if needed.(ŒÓ¹£ùÿÿÿÿ
+Dsquid:S1125""(Remove the literal "true" boolean value.(´ÉÒüÿÿÿÿ

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<BDUKStoresItemsDetails>
+	<ItemDetails>
+		<ItemCode>072042</ItemCode>
+		<DescriptionText>CAP SEALING 16C</DescriptionText>
+		<RateListValue>0.17000</RateListValue>
+		<UnitOfMeasure>EACH</UnitOfMeasure>
+	</ItemDetails>
+	<ItemDetails>
+		<ItemCode>075469</ItemCode>
+		<DescriptionText>PROTECTOR CABLE 1A (BAG = 10)</DescriptionText>
+		<RateListValue>3.74</RateListValue>
+		<UnitOfMeasure>EACH</UnitOfMeasure>
+	</ItemDetails>
+	<ItemDetails>
+		<ItemCode>071830</ItemCode>
+		<DescriptionText>DRAW ROPE 1 (Reel 500M)</DescriptionText>
+		<RateListValue>12.06</RateListValue>
+		<UnitOfMeasure>EACH</UnitOfMeasure>
+	</ItemDetails>
+</BDUKStoresItemsDetails>

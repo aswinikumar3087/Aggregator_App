@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<WM_Request xsi:noNamespaceSchemaLocation="COS_taskModify.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<EAI_Header>
+		<HI_SVC_NAME>HI_H_TFrequest</HI_SVC_NAME>
+		<HI_SVC_VERSION>0001</HI_SVC_VERSION>
+		<HI_PCK>PCK002069TFSR            COSMOSSGN   109349008:080736COSMOSSGN       </HI_PCK>
+		<HI_WORKSTRING/>
+		<HI_WORKSTRING_ORIGINATOR>COSMOSSGN</HI_WORKSTRING_ORIGINATOR>
+		<HI_WORKSTRING_TYPE>Job Management</HI_WORKSTRING_TYPE>
+		<HI_WORKSTRING_TYPE_INSTANCE>109349008</HI_WORKSTRING_TYPE_INSTANCE>
+		<HI_WORKSTRING_SUB_TYPE>taskModify</HI_WORKSTRING_SUB_TYPE>
+		<HI_WORKSTRING_KEY>GN-109349008</HI_WORKSTRING_KEY>
+		<HI_WORKSTRING_SEQ>FATB050001001897532G058C</HI_WORKSTRING_SEQ>
+		<HI_ROUTING_DATA>WMC91</HI_ROUTING_DATA>
+		<HI_CLIENT_CALLERID>109349008:080736</HI_CLIENT_CALLERID>
+	</EAI_Header>
+	<EAI_Body>
+		<ModifiedIndicator>C</ModifiedIndicator>
+		<TaskInitiateDs>
+			<SourceSystem>COSMOSSGN</SourceSystem>
+			<TaskIdentifier>109349008</TaskIdentifier>
+			<TaskTypeDs>
+				<TaskCategory>C</TaskCategory>
+				<TaskTypeId>NXKGFAT01</TaskTypeId>
+			</TaskTypeDs>
+			<BusinessAssetIdCode>DPW</BusinessAssetIdCode>
+			<MainWorkLocation>CA</MainWorkLocation>
+			<ResponseCode>NONE</ResponseCode>
+			<AccessDayDs>
+				<AccessIndicator>Y</AccessIndicator>
+			</AccessDayDs>
+			<CircuitAndProductDetailsDs>
+				<ProposedInd>P</ProposedInd>
+				<OverallCircuitSpecDs>
+					<NetworkServiceId>NXFS200105</NetworkServiceId>
+				</OverallCircuitSpecDs>
+				<CircuitEndDetailsDs>
+					<CircuitEnd>A</CircuitEnd>
+					<AssociatedOrderLinesDs>
+						<OrderLineOrderFunction>PD</OrderLineOrderFunction>
+						<OrderProductQuantity>001</OrderProductQuantity>
+						<ProductDescription>FRSTRM BRR 384-1024K</ProductDescription>
+						<ProductServiceId>NXFS200105</ProductServiceId>
+						<MaintenanceClass>RTW</MaintenanceClass>
+					</AssociatedOrderLinesDs>
+				</CircuitEndDetailsDs>
+				<CircuitEndDetailsDs>
+					<CircuitEnd>B</CircuitEnd>
+					<AssociatedOrderLinesDs>
+						<OrderLineOrderFunction>PD</OrderLineOrderFunction>
+						<OrderProductQuantity>001</OrderProductQuantity>
+						<ProductDescription>FRSTRM BRR 384-1024K</ProductDescription>
+						<ProductServiceId>NXFS200105</ProductServiceId>
+						<MaintenanceClass>RTW</MaintenanceClass>
+					</AssociatedOrderLinesDs>
+				</CircuitEndDetailsDs>
+			</CircuitAndProductDetailsDs>
+			<ExternalTaskRef>KBB04501FATB05</ExternalTaskRef>
+			<TaskActivityType>FATB05</TaskActivityType>
+		</TaskInitiateDs>
+	</EAI_Body>
+</WM_Request>

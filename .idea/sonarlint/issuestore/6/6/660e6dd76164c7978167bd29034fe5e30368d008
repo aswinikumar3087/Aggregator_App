@@ -1,0 +1,69 @@
+
+squid:S1319³"pThe type of the "orderMap" object should be an interface such as "Map" rather than the implementation "HashMap".(°ŒÕ8‰÷‰«Ò-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®øÌóúÿÿÿÿ8‰÷‰«Ò-
+qsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÄÙ“8‰÷‰«Ò-
+wsquid:S2139ä"XEither log this exception and handle it, or rethrow it with some contextual information.(üµË˜8‰÷‰«Ò-
+jsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(¨‘«Ê8‰÷‰«Ò-
+osquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(„èÅïøÿÿÿÿ8‰÷‰«Ò-
+qsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ª€Ñ8‰÷‰«Ò-
+vsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ö™ƒûÿÿÿÿ8‰÷‰«Ò-
+ssquid:UselessImportCheck"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8‰÷‰«Ò-
+hsquid:S4201µ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(—Š´ÿ8‰÷‰«Ò-
+Tsquid:S1481Â"0Remove this unused "METHOD_NAME" local variable.(‡è‘§ıÿÿÿÿ8‰÷‰«Ò-
+wsquid:S2139æ"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8‰÷‰«Ò-
+gsquid:HiddenFieldCheck°">Rename "connection" which hides the field declared at line 39.(àÏ£/8‰÷‰«Ò-
+hsquid:HiddenFieldCheckË">Rename "connection" which hides the field declared at line 39.(‘ğ¤Î8‰÷‰«Ò-
+Osquid:S1481´"0Remove this unused "METHOD_NAME" local variable.(Îûµ¦8‰÷‰«Ò-
+wsquid:S2139ù"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8‰÷‰«Ò-
+wsquid:S2139º"XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8‰÷‰«Ò-
+wsquid:S2139 "XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8‰÷‰«Ò-
+vsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ö™ƒûÿÿÿÿ8‰÷‰«Ò-
+osquid:S2259ğ"PA "NullPointerException" could be thrown; "aggregationDetails" is nullable here.(ºäÓô8‰÷‰«Ò-
+wsquid:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8‰÷‰«Ò-
+osquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(á¼ÿ¤øÿÿÿÿ8‰÷‰«Ò-
+squid:S1192»"bDefine a constant instead of duplicating this literal "EXCEPTION-OCCURRED STACK-TRACE \n" 6 times.(›ÄÜ8‰÷‰«Ò-
+lsquid:S1192ª	"MDefine a constant instead of duplicating this literal "MNPLResponse" 3 times.(Êö¨Ù8‰÷‰«Ò-
+Œsquid:S1319³"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(°ŒÕ8‰÷‰«Ò-
+wsquid:S2139Ó	"XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8±Ñ¬ÚÑ-
+gsquid:HiddenFieldCheckˆ">Rename "connection" which hides the field declared at line 39.(úÛ»w8‰÷‰«Ò-
+vsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ö™ƒûÿÿÿÿ8‰÷‰«Ò-
+msquid:HiddenFieldCheckĞ">Rename "connection" which hides the field declared at line 39.(íìãÖşÿÿÿÿ8‰÷‰«Ò-
+wsquid:S2139Ø	"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8±Ñ¬ÚÑ-
+vsquid:ModifiersOrderCheck)"EReorder the modifiers to comply with the Java Language Specification.(âõ•ûÿÿÿÿ8±Ñ¬ÚÑ-
+isquid:S3027Ê"JPut single-quotes around ':' to use the faster "lastIndexOf(char)" method.(®†œî8‰÷‰«Ò-
+lsquid:S1192ô"HDefine a constant instead of duplicating this literal "FAILURE" 3 times.( ÚÇğúÿÿÿÿ8‰÷‰«Ò-
+usquid:S3776/"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ç¹ãúÿÿÿÿ8±Ñ¬ÚÑ-
+osquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(¤ö™ƒûÿÿÿÿ8‰÷‰«Ò-
+vsquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(«™™èÿÿÿÿÿ8±Ñ¬ÚÑ-
+osquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ÏÒº—øÿÿÿÿ8‰÷‰«Ò-
+wsquid:S2139¸"XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8‰÷‰«Ò-
+hsquid:HiddenFieldCheck¤">Rename "connection" which hides the field declared at line 39.(ìË£8‰÷‰«Ò-
+osquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(üÅ“ëûÿÿÿÿ8‰÷‰«Ò-
+’squid:S1319Á"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(Ñ”Êİ8‰÷‰«Ò-
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(Î¡¨øøÿÿÿÿ8‰÷‰«Ò-
+jsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ÕÄ·“8‰÷‰«Ò-
+wsquid:S2139¢"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8‰÷‰«Ò-
+osquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8‰÷‰«Ò-
+wsquid:S2139¾"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8‰÷‰«Ò-
+wsquid:S2139ù"XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8‰÷‰«Ò-
+vsquid:S2139T"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8±Ñ¬ÚÑ-
+xsquid:S1192¬"TDefine a constant instead of duplicating this literal "updateRequestStatus" 3 times.(¼€ñšşÿÿÿÿ8‰÷‰«Ò-
+wsquid:S2139Ä"XEither log this exception and handle it, or rethrow it with some contextual information.(üµË˜8‰÷‰«Ò-
+wsquid:S2139ô"XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8‰÷‰«Ò-
+€squid:S1192"\Define a constant instead of duplicating this literal "Data Exception occured:  {}" 8 times.(‹”»úÿÿÿÿ8‰÷‰«Ò-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰â³üıÿÿÿÿ8‰÷‰«Ò-
+isquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(£èôÂ8±Ñ¬ÚÑ-
+¤squid:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŞØ™¾ûÿÿÿÿ8±Ñ¬ÚÑ-
+hsquid:HiddenFieldCheck¾">Rename "connection" which hides the field declared at line 39.(®¥øé8‰÷‰«Ò-
+wsquid:S2139Û"XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8‰÷‰«Ò-
+osquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.( ŠßÀøÿÿÿÿ8‰÷‰«Ò-
+hsquid:HiddenFieldCheck">Rename "connection" which hides the field declared at line 39.(Ù²€8‰÷‰«Ò-
+Qsquid:S1481	"2Remove this unused "finalResponse" local variable.(Şâğì8‰÷‰«Ò-
+qsquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ñ”Êİ8‰÷‰«Ò-
+jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ß®Ñ8‰÷‰«Ò-
+wsquid:S2139ş"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8‰÷‰«Ò-
+wsquid:S2139¤"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8‰÷‰«Ò-
+Rsquid:S2864="4Iterate over the "entrySet" instead of the "keySet".(ì™‰é8±Ñ¬ÚÑ-
+xsquid:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ŒÒ•8‰÷‰«Ò-
+œsquid:S1192ş"xDefine a constant instead of duplicating this literal "  Unable to store request Status due to unknown reasons" 5 times.(¶ñ•Ëüÿÿÿÿ8‰÷‰«Ò-
+gsquid:S2095Ë"HUse try-with-resources or close this "Connection" in a "finally" clause.(‘ğ¤Î8‰÷‰«Ò-

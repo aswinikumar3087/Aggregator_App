@@ -1,0 +1,20 @@
+
+…squid:S11920"bDefine a constant instead of duplicating this literal "EXCEPTION-OCCURRED \nSTACK-TRACE:" 6 times.(Õ—Øýüÿÿÿÿ8“¤ÞÌÑ-
+wsquid:S2139›"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8“¤ÞÌÑ-
+isquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(©Ûù8“¤ÞÌÑ-
+vsquid:S2139/"XEither log this exception and handle it, or rethrow it with some contextual information.(»Œ¿é8“¤ÞÌÑ-
+»%squid:RedundantThrowsDeclarationCheckZ"‚Remove the declaration of thrown exception 'com.bt.metb.aggregator.util.METBException', as it cannot be thrown from method's body.(üÝ¡²8“¤ÞÌÑ-
+osquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ìöøúùÿÿÿÿ8“¤ÞÌÑ-
+osquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(‚…¥ôùÿÿÿÿ8“¤ÞÌÑ-
+wsquid:S2139Š"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8“¤ÞÌÑ-
+Asquid:S1659d"#Declare "outer" on a separate line.(ÌÿÛÄ8“¤ÞÌÑ-
+wsquid:S2139¯"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8“¤ÞÌÑ-
+¼%squid:RedundantThrowsDeclarationCheckØ"‚Remove the declaration of thrown exception 'com.bt.metb.aggregator.util.METBException', as it cannot be thrown from method's body.(Ùªìö8“¤ÞÌÑ-
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÈçÅ8“¤ÞÌÑ-
+vsquid:S21394"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8“¤ÞÌÑ-
+wsquid:S2139¿"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ8“¤ÞÌÑ-
+»%squid:RedundantThrowsDeclarationCheck<"‚Remove the declaration of thrown exception 'com.bt.metb.aggregator.util.METBException', as it cannot be thrown from method's body.(•°õ¼8“¤ÞÌÑ-
+¦%squid:RedundantThrowsDeclarationCheck<"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(•°õ¼8“¤ÞÌÑ-
+¦%squid:RedundantThrowsDeclarationCheckZ"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(üÝ¡²8“¤ÞÌÑ-
+§%squid:RedundantThrowsDeclarationCheckØ"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Ùªìö8“¤ÞÌÑ-
+}squid:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºë¯çþÿÿÿÿ8“¤ÞÌÑ-

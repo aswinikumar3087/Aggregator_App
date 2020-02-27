@@ -1,0 +1,20 @@
+
+fsquid:S1192{"JDefine a constant instead of duplicating this literal "errorText" 3 times.(¥úåíýÿÿÿÿ
+fsquid:S1192T"JDefine a constant instead of duplicating this literal "errorCode" 3 times.(àŒÖÜúÿÿÿÿ
+Qsquid:S1141j"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+csquid:S1226K"LIntroduce a new variable instead of reusing the parameter "aggregationName".(ÜÉØ›
+]squid:S2259N"AA "NullPointerException" could be thrown; "dao" is nullable here.(ÏåÙúÿÿÿÿ
+Dsquid:S3416"-Update this logger to use "PollerUtil.class".(ßµ”µ
+lsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†¯•@
+isquid:S3776+"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(µ½Ç“
+Wsquid:S1854P";Remove this useless assignment to local variable "mtipXML".(¢Î×¾þÿÿÿÿ
+Zsquid:S1854Q">Remove this useless assignment to local variable "retryCount".(þÒþÏýÿÿÿÿ
+Rsquid:S1854R";Remove this useless assignment to local variable "e2eData".(¿¤—×
+Ysquid:S1854_"=Remove this useless assignment to local variable "statusMap".(þ÷Êíÿÿÿÿÿ
+_squid:S1854­"BRemove this useless assignment to local variable "requestHashMap".(ûòèÛùÿÿÿÿ
+Ysquid:HiddenFieldCheckC"7Rename "dao" which hides the field declared at line 28.(Š€º·
+Hsquid:S1481P",Remove this unused "mtipXML" local variable.(¢Î×¾þÿÿÿÿ
+Fsquid:S14813"/Remove this unused "retryCount" local variable.(·ÍÙð
+Hsquid:S1481?"2Remove this unused "metTaskStatus" local variable.(ÙÐ¯H
+Lsquid:S1481@"0Remove this unused "metTaskCode" local variable.(ì˜Ÿßÿÿÿÿÿ
+Bsquid:S1481A"+Remove this unused "wmsJin" local variable.(¯´€æ

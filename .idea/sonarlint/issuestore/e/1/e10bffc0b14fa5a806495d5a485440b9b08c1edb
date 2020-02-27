@@ -1,0 +1,165 @@
+
+|squid:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(”À´±ÿÿÿÿÿ
+nsquid:S1192x"WDefine a constant instead of duplicating this literal "HI_WORKSTRING_SUB_TYPE" 5 times.(‡üÓµ
+Esquid:S2755é"-Disable XML external entity (XXE) processing.(²µŸš
+osquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÍÓßŒùÿÿÿÿ
+Zsquid:S1858Ã"="get" returns a string, there's no need to call "toString()".(¥£úÂùÿÿÿÿ
+isquid:S1192Â"LDefine a constant instead of duplicating this literal "msiResponse" 4 times.(ş›Èáşÿÿÿÿ
+Šsquid:S1319Ú"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÍÓßŒùÿÿÿÿ
+psquid:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(Òƒƒ£
+[squid:S00107Œ	"=Method has 18 parameters, which is greater than 7 authorized.(ÖÀ‹¾ùÿÿÿÿ
+Fsquid:S1905…")Remove this unnecessary cast to "String".(îºÕçıÿÿÿÿ
+osquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ò™Ë‰úÿÿÿÿ
+=squid:S3457Î"%String contains no format specifiers.(¬¸Çâ
+ysquid:S1192ô"bDefine a constant instead of duplicating this literal "ParserServiceImpl.transform() :: " 6 times.(ÿÅò2
+psquid:S1192Ã"SDefine a constant instead of duplicating this literal "createTaskRequest" 13 times.(¥£úÂùÿÿÿÿ
+Fsquid:S1905­")Remove this unnecessary cast to "String".(ü¢²üÿÿÿÿ
+nsquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æƒ°ˆşÿÿÿÿ
+|squid:S1192µ"dDefine a constant instead of duplicating this literal "ParserServiceImpl.validateXML() :: " 3 times.(Ü±Ğã
+isquid:S1192î"LDefine a constant instead of duplicating this literal "productName" 3 times.(ÿªœæûÿÿÿÿ
+nsquid:S3776^"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(âñ¢öùÿÿÿÿ
+jsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(ğà°³8ş‘§Ò-
+psquid:S1192÷"SDefine a constant instead of duplicating this literal "cancelTaskResponse" 3 times.(œµøüùÿÿÿÿ
+Asquid:S1905")Remove this unnecessary cast to "String".(î‡ªû
+jsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(èµÇş
+ssquid:S1149«
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(À§ıÿÿÿÿ
+Dsquid:S1905ø"'Remove this unnecessary cast to "Node".(‘ÃÇ¸şÿÿÿÿ
+qsquid:S1192‰"YDefine a constant instead of duplicating this literal "updateStatusTaskResponse" 3 times.(¿ã¼ø
+{squid:S1488±
+"cImmediately return this expression instead of assigning it to the temporary variable "strXMLToRet".(Ëõ¤ã
+Asquid:S1905¼")Remove this unnecessary cast to "String".(‚ì’Ø
+Zsquid:S1858Œ"="get" returns a string, there's no need to call "toString()".(•ˆô­ÿÿÿÿÿ
+Asquid:S1905º")Remove this unnecessary cast to "String".(¤Â¢æ
+Asquid:S2629­"$Invoke method(s) only conditionally.(úà‹ùÿÿÿÿ
+lsquid:S1192ò"TDefine a constant instead of duplicating this literal "m:amendTaskResponse" 5 times.(Ş’¯¹
+psquid:S1192ë"SDefine a constant instead of duplicating this literal "createTaskResponse" 3 times.(ıû”Õüÿÿÿÿ
+Ssquid:S1854	"6Remove this useless assignment to local variable "hm".(œ½–Œúÿÿÿÿ
+fsquid:UnusedPrivateMethodÈ	"4Remove this unused private "cappingNoteText" method.(ˆ‹×Éüÿÿÿÿ8ş‘§Ò-
+nsquid:S1192™"VDefine a constant instead of duplicating this literal "Input Parameters NULL" 7 times.(òÿ…©
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¦ç†
+Msquid:S1905»")Remove this unnecessary cast to "String".(™¨úÄûÿÿÿÿ8ş‘§Ò-
+`squid:UnusedPrivateMethod¼
+"4Remove this unused private "isMHWJobManager" method.(ûıä(8ş‘§Ò-
+Usquid:S1858ü"="get" returns a string, there's no need to call "toString()".(©ÙšÃ
+Isquid:S1905™",Remove this unnecessary cast to "Templates".(£”à‚ûÿÿÿÿ
+psquid:S2139Ø
+"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ
+dsquid:S1192ê"GDefine a constant instead of duplicating this literal "UTF-8" 12 times.(¶ğ§ÿÿÿÿÿÿ
+`squid:S5361ê"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Åâ“Ÿ
+Gsquid:S2093Õ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+ksquid:S1192v"ODefine a constant instead of duplicating this literal "HI_SVC_VERSION" 5 times.(İŞŸıÿÿÿÿ
+esquid:S1192È"MDefine a constant instead of duplicating this literal "MNSDResponse" 4 times.(Ñû¸ê
+gsquid:S1192"JDefine a constant instead of duplicating this literal "messageId" 5 times.(ÕÌÆÂşÿÿÿÿ
+psquid:S2139€"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+Asquid:S1905é")Remove this unnecessary cast to "String".(‚ì’Ø
+Fsquid:S1905Ò")Remove this unnecessary cast to "String".(Ğš¹‹ûÿÿÿÿ
+Zsquid:S1858é"="get" returns a string, there's no need to call "toString()".(âĞæšûÿÿÿÿ
+psquid:S2139œ
+"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+Usquid:S1858‚"="get" returns a string, there's no need to call "toString()".(”¿¢Ì
+Lsquid:S1066
+"/Merge this if statement with the enclosing one.(ØŒ«Ñùÿÿÿÿ
+osquid:S1192Å"RDefine a constant instead of duplicating this literal "msiResponsesecond" 4 times.(çÓÑ¥şÿÿÿÿ
+usquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¤»§úÿÿÿÿ8ş‘§Ò-
+Bsquid:S5411˜"*Use the primitive boolean expression here.(ˆï¬É
+¯%squid:RedundantThrowsDeclarationCheckú"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¦æ³­úÿÿÿÿ
+vsquid:S1192è"YDefine a constant instead of duplicating this literal "baseLineTestDataResponse" 4 times.(ÏÛäÌıÿÿÿÿ
+isquid:UnusedPrivateMethodŒ	"7Remove this unused private "createEAIHeaderXML" method.(ÖÀ‹¾ùÿÿÿÿ8ş‘§Ò-
+Asquid:S2629ğ"$Invoke method(s) only conditionally.(˜ëœÉıÿÿÿÿ
+psquid:S2139µ"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+Gsquid:S5411¹"*Use the primitive boolean expression here.(ª¡êÑşÿÿÿÿ
+Usquid:S1858ÿ"="get" returns a string, there's no need to call "toString()".(ÆêÃ
+psquid:S2139…"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ
+isquid:UnusedPrivateMethodª	"7Remove this unused private "moveFSINotestoCore" method.(à©Úùÿÿÿÿ8ş‘§Ò-
+`squid:S5361ê"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Åâ“Ÿ
+Dsquid:S1905ñ"'Remove this unnecessary cast to "Node".(áß–Ùüÿÿÿÿ
+Tsquid:S2629Ô
+"7Use the built-in formatting to construct this argument.(äŒÊûÿÿÿÿ
+Lsquid:S1066î"/Merge this if statement with the enclosing one.(ÿªœæûÿÿÿÿ
+Qsquid:S4719ğ"9Replace charset name argument with StandardCharsets.UTF_8(´¯‚‘
+nsquid:S1149¼	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".( ƒüï
+Usquid:S1858Ò"="get" returns a string, there's no need to call "toString()".(™¶¶–
+Asquid:S1905¤")Remove this unnecessary cast to "String".(¯æ³
+jsquid:S1192»"MDefine a constant instead of duplicating this literal "SVRSkillCode" 4 times.(™¨úÄûÿÿÿÿ
+psquid:S2139ö"XEither log this exception and handle it, or rethrow it with some contextual information.(®ËúÃ
+Zsquid:S1858ğ"="get" returns a string, there's no need to call "toString()".(–­”Éÿÿÿÿÿ
+Usquid:S1858Ï"="get" returns a string, there's no need to call "toString()".(¿–™
+jsquid:S1192w"SDefine a constant instead of duplicating this literal "HI_WORKSTRING_TYPE" 5 times.(ëšÃ½
+Asquid:S1905‚")Remove this unnecessary cast to "String".(øîß
+msquid:S1192ì"UDefine a constant instead of duplicating this literal "m:createTaskResponse" 3 times.(–ëº‚
+isquid:S1192b"MDefine a constant instead of duplicating this literal "SourceSystem" 5 times.(æ¿ôıÿÿÿÿÿ
+hsquid:S1192U"LDefine a constant instead of duplicating this literal "<WM_Request" 3 times.(»øĞÚşÿÿÿÿ
+Dsquid:S1905é",Remove this unnecessary cast to "Templates".(ÜÉÚ²
+Vsquid:S4719ÿ	"9Replace charset name argument with StandardCharsets.UTF_8(¶ğ§ÿÿÿÿÿÿ
+esquid:S5361§"HReplace this call to "replaceAll()" by a call to the "replace()" method.(’ÙÕÍøÿÿÿÿ
+rsquid:S1192ø"UDefine a constant instead of duplicating this literal "m:cancelTaskResponse" 3 times.(ñÇ×øÿÿÿÿ
+vsquid:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıñ¯Ùşÿÿÿÿ
+jsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğı¶¹
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‡ªû
+osquid:S1192ñ"RDefine a constant instead of duplicating this literal "amendTaskResponse" 3 times.(Øµ›€üÿÿÿÿ
+osquid:S1192z"SDefine a constant instead of duplicating this literal "HI_CLIENT_CALLERID" 5 times.(˜ì²şÿÿÿÿ
+psquid:S2139Í"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+Bsquid:S5411è"*Use the primitive boolean expression here.(ˆï¬É
+=squid:S3457Ù
+"%String contains no format specifiers.(¹Ã
+ssquid:S1149‘	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(À§ıÿÿÿÿ
+rsquid:S4435ÿ
+"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(ò¡”Ë
+dsquid:S1192¼"LDefine a constant instead of duplicating this literal "SVRDuration" 4 times.(‚ì’Ø
+Osquid:S2629Ñ
+"7Use the built-in formatting to construct this argument.(šØ­
+Zsquid:S1858Ì"="get" returns a string, there's no need to call "toString()".(Éó°Šùÿÿÿÿ
+Asquid:S1905ø")Remove this unnecessary cast to "String".(¯æ³
+osquid:UnusedPrivateMethodì"=Remove this unused private "isTRCApplicationDisabled" method.(’®õÃúÿÿÿÿ8ş‘§Ò-
+csquid:S1192z"GDefine a constant instead of duplicating this literal "HHmmss" 5 times.(˜ì²şÿÿÿÿ
+osquid:S1192"WDefine a constant instead of duplicating this literal "expectedFinishDateTime" 3 times.(š­šš
+Jsquid:S2755Ø"-Disable XML external entity (XXE) processing.(ÂÚÆÎüÿÿÿÿ
+qsquid:S1192å"TDefine a constant instead of duplicating this literal "MSIParallelResponse" 4 times.(ü¶Æëüÿÿÿÿ
+esquid:S1192Ñ"MDefine a constant instead of duplicating this literal "MNPLResponse" 4 times.(ÕØÄÖ
+Zsquid:S1858"="get" returns a string, there's no need to call "toString()".(¥„¤ÿÿÿÿÿ
+csquid:S1192ğ"KDefine a constant instead of duplicating this literal "identifier" 3 times.(¾Ó“²
+Asquid:S1905«")Remove this unnecessary cast to "String".(İÄƒÍ
+osquid:S1192ğ"RDefine a constant instead of duplicating this literal "amendTaskRequest" 12 times.(–­”Éÿÿÿÿÿ
+`squid:S5361ê"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Åâ“Ÿ
+hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(­–äûúÿÿÿÿ
+Zsquid:S1858æ"="get" returns a string, there's no need to call "toString()".(ÚÜîÃùÿÿÿÿ
+ssquid:S1149ß	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÜÌèãûÿÿÿÿ
+~squid:S3457ğ"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(˜ëœÉıÿÿÿÿ
+Qsquid:S4719¬"9Replace charset name argument with StandardCharsets.UTF_8(´¯‚‘
+Bsquid:S00108œ")Either remove or fill this block of code.(”ı¾
+Bsquid:S3457÷"%String contains no format specifiers.(ú†íşÿÿÿÿ
+Msquid:S1905è")Remove this unnecessary cast to "String".(™¨úÄûÿÿÿÿ8ş‘§Ò-
+esquid:S5361§"HReplace this call to "replaceAll()" by a call to the "replace()" method.(’ÙÕÍøÿÿÿÿ
+Vsquid:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(á³šüÿÿÿÿ
+Isquid:S1905¥",Remove this unnecessary cast to "Templates".(£”à‚ûÿÿÿÿ
+;squid:S2629•"$Invoke method(s) only conditionally.(Ù ÷ 
+hsquid:S1192u"LDefine a constant instead of duplicating this literal "HI_SVC_NAME" 5 times.(â€ºüüÿÿÿÿ
+esquid:S5361ÿ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(©«ğşÿÿÿÿ
+osquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îºÕçıÿÿÿÿ
+^squid:S1192y"GDefine a constant instead of duplicating this literal "HI_PCK" 5 times.(úËé
+Vsquid:S4719ê"9Replace charset name argument with StandardCharsets.UTF_8(¶ğ§ÿÿÿÿÿÿ
+xsquid:S3457•"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Ù ÷ 
+squid:S1192’"qDefine a constant instead of duplicating this literal " : recieved in invalid format from Input Request" 3 times.(×óáøÿÿÿÿ
+=squid:S3457"%String contains no format specifiers.(³Â¨
+nsquid:S1192m"RDefine a constant instead of duplicating this literal "metTaskIdentifier" 8 times.(ëÿ¿ìüÿÿÿÿ
+Zsquid:S1858É"="get" returns a string, there's no need to call "toString()".(Ÿ£÷ñûÿÿÿÿ
+Dsquid:S1905´"'Remove this unnecessary cast to "Node".(ÚèÓıÿÿÿÿ
+Bsquid:S3457
+"%String contains no format specifiers.(âü½ıÿÿÿÿ
+fsquid:UnusedPrivateMethodß"4Remove this unused private "getTRCIndicator" method.(ÂÁşÄúÿÿÿÿ8ş‘§Ò-
+9squid:S1643÷"Use a StringBuilder instead.(²†ìÿùÿÿÿÿ
+osquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(™‡Õúÿÿÿÿ
+jsquid:S1192Ë"RDefine a constant instead of duplicating this literal "MNSDResponseForHR" 4 times.(êÀ»Ü
+rsquid:S1192ş"UDefine a constant instead of duplicating this literal "m:updateTaskResponse" 3 times.(ª‰¥éşÿÿÿÿ
+xsquid:S1192•"`Define a constant instead of duplicating this literal "SecondaryCommitmentLatestFinish" 3 times.(õ·»
+Jsquid:S2755ä"-Disable XML external entity (XXE) processing.(½·ëÆıÿÿÿÿ
+jsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÛĞú
+Usquid:S1858Æ"="get" returns a string, there's no need to call "toString()".(´•Ú¥
+esquid:S5361§"HReplace this call to "replaceAll()" by a call to the "replace()" method.(’ÙÕÍøÿÿÿÿ
+ƒsquid:S1192—"fDefine a constant instead of duplicating this literal "\" : found starting or ending with \"" 3 times.(±­Òùúÿÿÿÿ
+}squid:S1192Ğ	"eDefine a constant instead of duplicating this literal "ParserServiceImpl.extractValue() :: " 3 times.(Š’Ï
+ssquid:S1192—"VDefine a constant instead of duplicating this literal "\" from Input Request" 3 times.(±­Òùúÿÿÿÿ
+Zsquid:S1858ó"="get" returns a string, there's no need to call "toString()".(å‰óŸıÿÿÿÿ
+Asquid:S2629¢"$Invoke method(s) only conditionally.(úà‹ùÿÿÿÿ
+Dsquid:S1905î",Remove this unnecessary cast to "Templates".(ÜÉÚ²

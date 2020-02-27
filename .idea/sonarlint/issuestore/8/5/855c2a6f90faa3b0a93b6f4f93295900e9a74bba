@@ -1,0 +1,33 @@
+
+usquid:S3776E"RRefactor this method to reduce its Cognitive Complexity from 96 to the 15 allowed.(Ì´Š“üÿÿÿÿ8ÔÚ‡«Ò-
+vsquid:S2737œ"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û8Ïÿ‰«Ò-
+vsquid:S2737æ"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¡åØú8Ïÿ‰«Ò-
+`squid:S1854X"=Remove this useless assignment to local variable "projectId".(¾ïÙÒøÿÿÿÿ8ïÓšÈÒ-
+Qsquid:S1135ï"2Complete the task associated to this TODO comment.(í¸õ®8Ïÿ‰«Ò-
+ƒsquid:S1450&"`Remove the "interfaceProtocol" field and declare it as a local variable in the relevant methods.(Ÿ¼õøşÿÿÿÿ8ÔÚ‡«Ò-
+jsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(³çÍÉ8Ïÿ‰«Ò-
+lsquid:S2259ª"HA "NullPointerException" could be thrown; "aggregator" is nullable here.(Üıíşÿÿÿÿÿ8Ïÿ‰«Ò-
+Fsquid:S1148q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïÿ‰«Ò-
+gsquid:S4143h"DVerify this is the key that was intended; it was already set before.(á€Ø¿ùÿÿÿÿ8Ïÿ‰«Ò-
+osquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(‚¬Èòûÿÿÿÿ8ïÓšÈÒ-
+Nsquid:S1066Ò"/Merge this if statement with the enclosing one.(ø§Á†8Ïÿ‰«Ò-
+=squid:S3457Ä"2nd argument is not used.(ºç‘¿øÿÿÿÿ8Áú¿«Ò-
+isquid:S1192R"KDefine a constant instead of duplicating this literal "RequestMap" 4 times.(€¢“8»•ŒÈÒ-
+{
+squid:S135|"YReduce the total number of break and continue statements in this loop to use at most one.(š€¿Æûÿÿÿÿ8Ïÿ‰«Ò-
+8squid:S3457Â"2nd argument is not used.(Ï¯8Ïÿ‰«Ò-
+šsquid:S1319E"wThe type of the "hashMapResponse" object should be an interface such as "Map" rather than the implementation "HashMap".(Ì´Š“üÿÿÿÿ8ÔÚ‡«Ò-
+zsquid:UselessImportCheck"JRemove this unused import 'com.fasterxml.jackson.core.type.TypeReference'.(ãĞß¤ÿÿÿÿÿ8Ïÿ‰«Ò-
+=squid:S3457Á"2nd argument is not used.(¶êÆäúÿÿÿÿ8Áú¿«Ò-
+Qsquid:S1481X".Remove this unused "projectId" local variable.(¾ïÙÒøÿÿÿÿ8ïÓšÈÒ-
+ksquid:S00112±"FDefine and throw a dedicated exception instead of using a generic one.(‡ì°ûÿÿÿÿÿ8öû¨¢Ò-
+hsquid:S1192e"JDefine a constant instead of duplicating this literal "errorCode" 3 times.(Áòù8Ïÿ‰«Ò-
+=squid:S3457Å"2nd argument is not used.(ĞİÉÑşÿÿÿÿ8Ïÿ‰«Ò-
+]"squid:SwitchLastCaseIsDefaultCheck¤""Add a default case to this switch.(ŸüİØùÿÿÿÿ8ïÓšÈÒ-
+gsquid:S1192Ò"HDefine a constant instead of duplicating this literal "METDATA" 3 times.(ø§Á†8Ïÿ‰«Ò-
+Ssquid:S1066À"/Merge this if statement with the enclosing one.(Ê×‰åşÿÿÿÿ8Ïÿ‰«Ò-
+msquid:S1192g"JDefine a constant instead of duplicating this literal "errorDesc" 3 times.(åñŞæûÿÿÿÿ8Ïÿ‰«Ò-
+Ysquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ïÿ‰«Ò-
+osquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ïÓšÈÒ-
+~squid:S1450+"[Remove the "validatedXml" field and declare it as a local variable in the relevant methods.(äûåÀúÿÿÿÿ8ÔÚ‡«Ò-
+wsquid:S1450$"YRemove the "requestMap" field and declare it as a local variable in the relevant methods.(½ÿâ™8ÔÚ‡«Ò-
